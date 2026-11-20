@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-20T12:49:35.399425+00:00",
+  "updated_at": "2026-11-20T20:49:07.735632+00:00",
   "items": [
+    {
+      "id": "22b0810fda7c27753e61038f9b79bf45176151f6127f464956a974cc223d5481",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
+      "summary": "The White House tapped Pentagon chief information officer Kirsten Davies to serve as acting national cyber director Thursday just after firing Sean Cairncross from the role. Davies managed the Defense Department’s cyber…",
+      "link": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/88e2d5e5b82d4736915b64969f97d168-e1793032516161.jpg?w=900",
+      "published_at": "2026-11-20T20:12:15+00:00"
+    },
+    {
+      "id": "6370ac8130552522560eb201701c3d8b77207727597bcbf473dc9060eb6eaed2",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "DeSantis calls Supreme Court justices ‘potted plants’",
+      "summary": "Florida Gov. Ron DeSantis (R) shut down claims in an interview published Friday that he’s interested in a seat on the Supreme Court — an assertion coming as buzz surrounding his plans for 2028 mounts. DeSantis sat for a…",
+      "link": "https://thehill.com/homenews/state-watch/6234014-ron-desantis-supreme-court-denial/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69d405326b8e48.75365416-e1795205330477.jpeg?w=900",
+      "published_at": "2026-11-20T20:09:45+00:00"
+    },
+    {
+      "id": "5c11d92948b1106f8b5df954b16ec3a3462f92c0eb35c13e13400d6992624441",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Senate adopts resolution honoring Fiona the hippo",
+      "summary": "The U.S. Senate adopted a resolution Friday to honor Fiona the hippo, a beloved inhabitant of the Cincinnati Zoo who died Thursday. Fiona the hippo died days after she ingested a zoo-goer’s hat that accidentally ended u…",
+      "link": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324632540248-e1795204865545.jpg?w=900",
+      "published_at": "2026-11-20T20:08:14+00:00"
+    },
+    {
+      "id": "b20894850f486cf183f0129798b9143fe3ff16615f79077352057f88d29def56",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "House Democrats reiterate support for McIver after appeals court denies petition",
+      "summary": "House Democrats rallied behind Rep. LaMonica McIver (D-N.J.) on Friday, after a federal appeals court declined her petition for a full panel to consider dismissing charges tied to a scuffle outside of an immigration det…",
+      "link": "https://thehill.com/homenews/house/6234013-house-democrats-reup-support-lamonica-mciver/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2025/11/691b6c2b135fd0.27204830-e1795203404527.jpeg?w=900",
+      "published_at": "2026-11-20T19:54:56+00:00"
+    },
+    {
+      "id": "aa0d142e6f269f8ce29bad8f580a34c5d92ae62ffe2e156a10cfe5e72d43d8d7",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
+      "summary": "President Trump and UFC CEO Dana White will host a reception Friday honoring the United States Marine Band on the White House’s newly renovated helipad. The president and White are expected to announce a combined $200,0…",
+      "link": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26265144701453-e1795201949891.jpg?w=900",
+      "published_at": "2026-11-20T19:34:54+00:00"
+    },
+    {
+      "id": "ed1be9c93e8553e656845bf1eaf341e3620d1de7a65c747d897159e34dac9813",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Vance deflects on whether Iran war worth political price",
+      "summary": "Vice President Vance dodged the question on Friday of whether he thought the Iran war was worth Republicans losing big in the midterm elections earlier this month. “The president is the one who makes the decision, and t…",
+      "link": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324662046860-e1795199464605.jpg?w=900",
+      "published_at": "2026-11-20T19:32:18+00:00"
+    },
+    {
+      "id": "6395f16388a5d5aba2c8afb458bcfc6201a2b111982cb9b0f87f53dfed865105",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "New report highlights mental health struggles of NHL goalies",
+      "summary": "Former NHL goalie Corey Hirsch told NewsNation mental health is a very real concern among players.",
+      "link": "https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/68412cc84522e0.70028727-e1795202919223.jpeg?w=900",
+      "published_at": "2026-11-20T19:29:36+00:00"
+    },
+    {
+      "id": "e447f9e17d65520b91ae19dbc13632beed876bd1963640adcae266f785b2aa89",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports",
+      "summary": "President Trump left the door open to working with Democrats on issues such as healthcare, Hollywood and college sports regulations during his news conference on Friday. “I am open to great healthcare. Now, can it be wh…",
+      "link": "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324640971265-e1795197255195.jpg?w=900",
+      "published_at": "2026-11-20T19:26:49+00:00"
+    },
+    {
+      "id": "37cc32fc41148b01381e634ad9d655c0087e8d8261ee003478526f96d881f80f",
+      "category": "POLITICS",
+      "source": "Politico",
+      "title": "New Democratic governors race to deliver relief on costs",
+      "summary": "The newly elected state executives are plotting solutions on healthcare, housing and energy.",
+      "link": "https://www.politico.com/news/2026/11/20/dem-govs-huddle-to-address-living-costs-01178905",
+      "image": "https://static.politico.com/ed/c5/0647ecd5411f8e17950f8f7bb04c/fm2a9565.JPG",
+      "published_at": "2026-11-20T18:59:19+00:00"
+    },
+    {
+      "id": "66ae5788c717051c54d83d751c4978c255a13864ea3571d8d3c342ec72cd5c6d",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
+      "summary": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the “death cross” for small-cap stocks and advice from The Moneyist.",
+      "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-24427374",
+      "published_at": "2026-11-20T20:32:00+00:00"
+    },
+    {
+      "id": "42fed2291524f30849d1bbe3ce382b5667251df5c607e00889c1ff0052858487",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-29241577",
+      "published_at": "2026-11-20T20:30:00+00:00"
+    },
+    {
+      "id": "473830c1c2811852cf398332ae0833c6122899f554bae7a57ea0d0813104c3b6",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-34722118",
+      "published_at": "2026-11-20T20:08:00+00:00"
+    },
     {
       "id": "3bbef7bca3878af37d8db79f49f96b35ddd644154e06b830d5bfd6a5d1787c2a",
       "category": "POLITICS",
