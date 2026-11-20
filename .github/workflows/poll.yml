@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: briefing-room-poller-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v7
@@ -36,40 +36,49 @@ jobs:
           CHANNEL_HANDLE: "@thebriefingroom99"
         run: python bot.py
 
-      - name: Commit updated state and feed
+      - name: Commit and push feed and state
         run: |
+          set -e
           git config user.name "briefing-bot"
           git config user.email "41898282+briefing-bot@users.noreply.github.com"
+
           git add -A
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: update feed and seen items"
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
           fi
 
-          for i in 1 2 3; do
-            git fetch origin main
-            if git merge-base --is-ancestor origin/main HEAD; then
-              if git push origin main; then
-                exit 0
-              fi
-            else
-              if git rebase origin/main; then
-                if git push origin main; then
-                  exit 0
-                fi
-              else
-                git rebase --abort || true
-                git reset --soft origin/main
-                git checkout origin/main -- seen_items.db public/feed.json 2>/dev/null || true
-                git add -A
-                if ! git diff --staged --quiet; then
-                  git commit -m "chore: update feed and seen items"
-                fi
-                if git push origin main; then
-                  exit 0
-                fi
-              fi
+          git commit -m "chore: update feed and seen items"
+
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "Pushed cleanly on attempt $attempt."
+              exit 0
             fi
+
+            echo "Push rejected on attempt $attempt; syncing with origin/main..."
+            git fetch origin main
+
+            # Save the bot's newly generated outputs before resetting onto origin/main
+            mkdir -p /tmp/bot_out
+            [ -f seen_items.db ] && cp seen_items.db /tmp/bot_out/seen_items.db
+            [ -f public/feed.json ] && cp public/feed.json /tmp/bot_out/feed.json
+
+            git reset --hard origin/main
+
+            [ -f /tmp/bot_out/seen_items.db ] && cp /tmp/bot_out/seen_items.db seen_items.db
+            [ -f /tmp/bot_out/feed.json ] && mkdir -p public && cp /tmp/bot_out/feed.json public/feed.json
+
+            git add -A
+            if git diff --staged --quiet; then
+              echo "Remote already matches our state."
+              exit 0
+            fi
+
+            git commit -m "chore: update feed and seen items"
             sleep 2
           done
 
+          echo "Failed to push after 5 attempts."
           exit 1
+          
