@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-20T07:41:28.521433+00:00",
+  "updated_at": "2026-11-20T12:49:35.399425+00:00",
   "items": [
+    {
+      "id": "3bbef7bca3878af37d8db79f49f96b35ddd644154e06b830d5bfd6a5d1787c2a",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "The collapse of Trump’s blood diesel scheme is a victory for Ukraine",
+      "summary": "The war still hangs in the balance, but the failure of Trump and Putin to break the sanctions regime is a victory for Ukraine in its gallant fight for survival.",
+      "link": "https://thehill.com/opinion/international/6228379-russia-blockade-runners-us-sanctions/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26313600542955.jpg?w=900",
+      "published_at": "2026-11-20T12:30:00+00:00"
+    },
+    {
+      "id": "e6c17fb82ce19d4e52623d81c0d79f327ec901a27da5963f7ed3bbaa219ac752",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "What does screentime really mean, and what’s a parent to do about it?",
+      "summary": "Here’s my best advice from all the data I have seen.",
+      "link": "https://thehill.com/opinion/technology/6228523-parenting-child-screentime-advice/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2022/11/CA_screentime_11092022istock.jpg?w=900",
+      "published_at": "2026-11-20T12:00:00+00:00"
+    },
+    {
+      "id": "98504e69bd02f07b8504704b87dca2d5fe154663fc5c148d971bc13eb3459f33",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "The Memo: Embattled Trump seeks reset with White House news conference",
+      "summary": "President Trump will seek a reset of sorts when he holds a press conference at the White House at noon EST Friday. Trump will appear in front of the media after being weakened by the major beating the GOP took in the mi…",
+      "link": "https://thehill.com/homenews/analysis/6231674-trump-post-midterm-election-reset/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Memo-Trump-reset_112026_Stanage_AP_Mark-Schiefelbein.jpg?w=900",
+      "published_at": "2026-11-20T11:00:00+00:00"
+    },
+    {
+      "id": "a0d6333b9b569acf1273e4991b79e9bc478c27322bf426c3934308d9a18be0d6",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Rubio gains buzz while Vance’s fortunes falter in GOP race",
+      "summary": "Secretary of State Marco Rubio is up and Vice President Vance is down when it comes to talk about the GOP presidential race. Rubio is generating growing buzz among Republicans as a potential 2028 presidential contender…",
+      "link": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Rubio_Parnes-Mueller_AP_ManuelBalceCeneta.jpg?w=900",
+      "published_at": "2026-11-20T11:00:00+00:00"
+    },
+    {
+      "id": "01a9fccf738e8bcf99e5a83a140821f8e2e7bab636b87980a6952309fe44ef0f",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Gen Z helped Democrats win. Now it may want new leadership",
+      "summary": "Gen Z delivered a decisive win for Democrats in the 2026 midterm elections. Now they may want to see change in party leadership. Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing achallenge…",
+      "link": "https://thehill.com/homenews/senate/6231953-gen-z-democrats-schumer-van-hollen/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/The-Feed_112026_Illo_CJ-GN-Adobe.png?w=900",
+      "published_at": "2026-11-20T11:00:00+00:00"
+    },
+    {
+      "id": "a387363bfbf88ec1b0903c07ddc8a391607cafca2bb3fe2c1c8854446bffc782",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Raskin warns federal agencies against Signal use",
+      "summary": "Rep. Jamie Raskin (D-Md.), the top Democrat on the House Judiciary Committee, warned a host of federal agencies Thursday against using apps like Signal with auto-deleting messages, writing that it violates the law and c…",
+      "link": "https://thehill.com/homenews/house/6231917-raskin-warns-fbi-signal-usage/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/raskinjamie_063026gn01_w.jpg?w=900",
+      "published_at": "2026-11-20T09:45:00+00:00"
+    },
+    {
+      "id": "bcf4f6847e9df52f8c209455e32db442943b4d401e01889b1e548e796b85fc6a",
+      "category": "POLITICS",
+      "source": "Politico",
+      "title": "Democratic Governors’ 2028 picks",
+      "summary": "",
+      "link": "https://www.politico.com/video/2026/11/20/democratic-governors-2028-picks-2235294",
+      "image": "politics.jpg",
+      "published_at": "2026-11-20T10:45:00+00:00"
+    },
+    {
+      "id": "5eddcb448d32eaad0b113b86f47bedd5cea363adeec42dcc84ba4a683ebe9609",
+      "category": "POLITICS",
+      "source": "Politico",
+      "title": "The nation’s cartoonists on the week in politics",
+      "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics…",
+      "link": "https://www.politico.com/gallery/2026/11/20/the-nations-cartoonists-on-the-week-in-politics-01177665",
+      "image": "politics.jpg",
+      "published_at": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "id": "2c9789d322c4b37a906c9e150f3f9961eaa30ef55d7d25cfbeec47a99d955a5b",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
+      "summary": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
+      "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-78540306",
+      "published_at": "2026-11-20T12:45:00+00:00"
+    },
+    {
+      "id": "dfe2989837786e3e22194ad98f16a034972d114f58592cfc1e2e921b30487cfd",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
+      "summary": "The S&P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
+      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-43012277",
+      "published_at": "2026-11-20T12:43:00+00:00"
+    },
+    {
+      "id": "0820e839700801e64ba6d62d8aa833ea55abd00b713c771f289d07a8e1bbbc79",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
+      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-13717696",
+      "published_at": "2026-11-20T12:30:00+00:00"
+    },
+    {
+      "id": "ccfbd7c60fb73ae8d9fecf305828fbe3ea5b4ff2acf91d990218ac5e7fffda7d",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
+      "summary": "Roaring Kitty’s return had minimal impact on GameStop’s stock, which has started to gain more sophisticated appeal for its “new and improved story.”",
+      "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-71591631",
+      "published_at": "2026-11-20T12:24:00+00:00"
+    },
     {
       "id": "c678ace1f7b9c3d6122f268f25856b8cc9c3a761b6a7cf3c94181e808ffb8e17",
       "category": "POLITICS",
