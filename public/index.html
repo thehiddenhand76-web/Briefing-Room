@@ -3,17 +3,19 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>The Briefing Room — Live Dispatches</title>
+  <title>The Briefing Room</title>
+  <link rel="icon" type="image/png" href="/briefing-room-logo.png" />
   <style>
     :root {
-      --bg: #0b0e14;
-      --panel: #121722;
-      --panel-2: #182030;
-      --text: #eef2f7;
-      --muted: #9aa6b8;
-      --border: #253044;
-      --accent: #38bdf8;
-      --accent-2: #22c55e;
+      --bg: #070b14;
+      --surface: #0e1526;
+      --surface-2: #141e36;
+      --border: #22304f;
+      --text: #f3f6fc;
+      --muted: #93a4c3;
+      --accent: #eab308;
+      --accent-soft: rgba(234, 179, 8, 0.14);
+      --tg: #29a9eb;
     }
 
     * {
@@ -22,79 +24,118 @@
 
     body {
       margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.45;
     }
 
-    .wrap {
-      max-width: 1120px;
-      margin: 0 auto;
-      padding: 20px 16px 48px;
+    a {
+      color: inherit;
+      text-decoration: none;
     }
 
-    header {
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(7, 11, 20, 0.92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .topbar-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 12px 16px;
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       justify-content: space-between;
-      gap: 14px;
-      padding-bottom: 16px;
-      border-bottom: 1px solid var(--border);
+      gap: 12px;
     }
 
-    .brand h1 {
-      margin: 0;
-      font-size: 1.45rem;
-      letter-spacing: 0.04em;
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
     }
 
-    .brand p {
-      margin: 4px 0 0;
+    .brand-logo {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 1.5px solid var(--accent);
+      background: var(--surface-2);
+      flex-shrink: 0;
+    }
+
+    .brand-text {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .brand-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .brand-sub {
+      font-size: 0.78rem;
       color: var(--muted);
-      font-size: 0.88rem;
     }
 
     .tg-btn {
       display: inline-flex;
       align-items: center;
       gap: 8px;
-      padding: 10px 16px;
-      border-radius: 8px;
-      background: var(--accent);
-      color: #071018;
-      font-weight: 700;
-      text-decoration: none;
-      font-size: 0.9rem;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: rgba(41, 169, 235, 0.14);
+      border: 1px solid rgba(41, 169, 235, 0.45);
+      color: #7cd2ff;
+      font-size: 0.85rem;
+      font-weight: 600;
+      white-space: nowrap;
     }
 
     .tg-btn:hover {
-      filter: brightness(1.08);
+      background: rgba(41, 169, 235, 0.24);
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px;
     }
 
     .filters {
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
-      margin: 18px 0 22px;
+      margin-bottom: 18px;
     }
 
     .filter-btn {
-      background: var(--panel);
+      background: var(--surface);
       color: var(--muted);
       border: 1px solid var(--border);
-      padding: 8px 14px;
       border-radius: 999px;
-      font-size: 0.82rem;
-      font-weight: 600;
+      padding: 7px 14px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
       cursor: pointer;
     }
 
-    .filter-btn.active {
-      background: var(--panel-2);
-      color: var(--text);
+    .filter-btn.active,
+    .filter-btn:hover {
+      background: var(--accent-soft);
       border-color: var(--accent);
+      color: var(--text);
     }
 
     .grid {
@@ -104,7 +145,7 @@
     }
 
     .card {
-      background: var(--panel);
+      background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 12px;
       overflow: hidden;
@@ -114,9 +155,9 @@
 
     .card-img {
       width: 100%;
-      height: 168px;
+      height: 175px;
       object-fit: cover;
-      background: var(--panel-2);
+      background: var(--surface-2);
       display: block;
     }
 
@@ -124,72 +165,91 @@
       padding: 14px;
       display: flex;
       flex-direction: column;
+      gap: 10px;
       flex: 1;
-      gap: 8px;
     }
 
-    .meta {
+    .card-meta {
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 8px;
-      font-size: 0.75rem;
+      font-size: 0.74rem;
       color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
     }
 
-    .tag {
-      background: rgba(56, 189, 248, 0.14);
-      color: var(--accent);
+    .badge {
+      background: var(--accent-soft);
+      color: #facc15;
+      border: 1px solid rgba(234, 179, 8, 0.35);
       padding: 2px 8px;
       border-radius: 999px;
       font-weight: 700;
-      letter-spacing: 0.04em;
     }
 
     .card-title {
       margin: 0;
       font-size: 1rem;
-      line-height: 1.35;
-    }
-
-    .card-title a {
-      color: var(--text);
-      text-decoration: none;
+      line-height: 1.38;
+      font-weight: 600;
     }
 
     .card-title a:hover {
-      color: var(--accent);
+      color: #facc15;
     }
 
-    .card-summary {
-      margin: 0;
+    .card-footer {
+      margin-top: auto;
+      padding-top: 8px;
+      border-top: 1px solid rgba(34, 48, 79, 0.65);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.78rem;
       color: var(--muted);
-      font-size: 0.86rem;
-      flex: 1;
     }
 
     .empty {
-      padding: 36px 20px;
-      text-align: center;
-      background: var(--panel);
+      color: var(--muted);
+      background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 12px;
-      color: var(--muted);
+      padding: 24px;
+      text-align: center;
     }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div class="brand">
-        <h1>THE BRIEFING ROOM</h1>
-        <p id="status-line">Loading live dispatches…</p>
-      </div>
-      <a class="tg-btn" href="https://t.me/thebriefingroom99" target="_blank" rel="noopener noreferrer">
-        Join Telegram (@thebriefingroom99)
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="/">
+        <img
+          src="/briefing-room-logo.png"
+          alt="The Briefing Room Logo"
+          class="brand-logo"
+          width="44"
+          height="44"
+        />
+        <span class="brand-text">
+          <span class="brand-title">The Briefing Room</span>
+          <span class="brand-sub">Live Politics • Macro • Stocks • Crypto</span>
+        </span>
       </a>
-    </header>
 
+      <a
+        class="tg-btn"
+        href="https://t.me/thebriefingroom99"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span>@thebriefingroom99</span>
+      </a>
+    </div>
+  </header>
+
+  <main class="container">
     <nav class="filters" aria-label="Category filters">
       <button class="filter-btn active" data-category="ALL">ALL</button>
       <button class="filter-btn" data-category="POLITICS">POLITICS</button>
@@ -198,130 +258,110 @@
       <button class="filter-btn" data-category="CRYPTO">CRYPTO</button>
     </nav>
 
-    <main id="feed-container" class="grid"></main>
-  </div>
+    <section id="feed" class="grid" aria-live="polite">
+      <div class="empty">Loading dispatches...</div>
+    </section>
+  </main>
 
   <script>
     const FALLBACKS = {
-      POLITICS: "politics.jpg",
-      MACRO: "macro.jpg",
-      STOCKS: "stocks.jpg",
-      CRYPTO: "crypto.jpg"
+      POLITICS: "/politics.jpg",
+      MACRO: "/macro.jpg",
+      STOCKS: "/stocks.jpg",
+      CRYPTO: "/crypto.jpg"
     };
 
     let allItems = [];
     let activeCategory = "ALL";
+
+    function getFallbackImage(category) {
+      const key = (category || "").toUpperCase();
+      return FALLBACKS[key] || "/briefing-room-logo.png";
+    }
 
     function escapeHtml(str) {
       return String(str || "")
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#39;");
+        .replace(/"/g, "&quot;");
     }
 
-    function fallbackFor(category) {
-      const key = String(category || "MACRO").toUpperCase();
-      return FALLBACKS[key] || "macro.jpg";
-    }
-
-    function formatTime(isoStr) {
-      if (!isoStr) return "";
-      const d = new Date(isoStr);
-      if (Number.isNaN(d.getTime())) return "";
-      return d.toLocaleString([], {
-        month: "short",
-        day: "numeric",
-        hour: "2-digit",
-        minute: "2-digit"
-      });
-    }
-
-    function renderFeed() {
-      const container = document.getElementById("feed-container");
-      const filtered = activeCategory === "ALL"
-        ? allItems
-        : allItems.filter((item) => String(item.category || "").toUpperCase() === activeCategory);
+    function renderItems() {
+      const container = document.getElementById("feed");
+      const filtered =
+        activeCategory === "ALL"
+          ? allItems
+          : allItems.filter(
+              (item) => (item.category || "").toUpperCase() === activeCategory
+            );
 
       if (!filtered.length) {
-        container.className = "";
-        container.innerHTML = `<div class="empty">No dispatches in ${escapeHtml(activeCategory)} yet.</div>`;
+        container.innerHTML = '<div class="empty">No items in this category yet.</div>';
         return;
       }
 
-      container.className = "grid";
-      container.innerHTML = filtered.map((item) => {
-        const cat = String(item.category || "MACRO").toUpperCase();
-        const fallback = fallbackFor(cat);
-        const imgSrc = item.image || fallback;
-        const timeLabel = formatTime(item.published_at);
+      container.innerHTML = filtered
+        .map((item) => {
+          const cat = (item.category || "NEWS").toUpperCase();
+          const fallback = getFallbackImage(cat);
+          const imgSrc = item.image || item.image_url || fallback;
+          const title = escapeHtml(item.title || "Untitled Dispatch");
+          const source = escapeHtml(item.source || "Briefing");
+          const link = item.link || item.url || "#";
+          const pubDate = item.published || item.pubDate || "";
 
-        return `
-          <article class="card">
-            <img
-              class="card-img"
-              src="${escapeHtml(imgSrc)}"
-              alt="${escapeHtml(item.title || "Dispatch image")}"
-              loading="lazy"
-              onerror="if (!this.dataset.fb) { this.dataset.fb = '1'; this.src = '${fallback}'; } else { this.style.display = 'none'; }"
-            />
-            <div class="card-body">
-              <div class="meta">
-                <span class="tag">${escapeHtml(cat)}</span>
-                <span>${escapeHtml(item.source || "")}${timeLabel ? " · " + escapeHtml(timeLabel) : ""}</span>
+          return `
+            <article class="card">
+              <img
+                class="card-img"
+                src="${escapeHtml(imgSrc)}"
+                alt="${title}"
+                loading="lazy"
+                onerror="this.onerror=null;this.src='${fallback}';"
+              />
+              <div class="card-body">
+                <div class="card-meta">
+                  <span class="badge">${escapeHtml(cat)}</span>
+                  <span>${source}</span>
+                </div>
+                <h2 class="card-title">
+                  <a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">${title}</a>
+                </h2>
+                <div class="card-footer">
+                  <span>${escapeHtml(pubDate)}</span>
+                  <a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">Read →</a>
+                </div>
               </div>
-              <h2 class="card-title">
-                <a href="${escapeHtml(item.link || "#")}" target="_blank" rel="noopener noreferrer">
-                  ${escapeHtml(item.title || "Untitled Dispatch")}
-                </a>
-              </h2>
-              ${item.summary ? `<p class="card-summary">${escapeHtml(item.summary)}</p>` : ""}
-            </div>
-          </article>
-        `;
-      }).join("");
-    }
-
-    async function loadFeed() {
-      const statusEl = document.getElementById("status-line");
-      try {
-        const res = await fetch(`feed.json?t=${Date.now()}`, { cache: "no-store" });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-
-        if (Array.isArray(data)) {
-          allItems = data;
-        } else {
-          allItems = Array.isArray(data.items) ? data.items : [];
-          if (data.updated_at) {
-            statusEl.textContent = `Updated ${formatTime(data.updated_at)} · ${allItems.length} dispatches`;
-          }
-        }
-
-        if (!statusEl.textContent || statusEl.textContent === "Loading live dispatches…") {
-          statusEl.textContent = `${allItems.length} live dispatches`;
-        }
-        renderFeed();
-      } catch (err) {
-        statusEl.textContent = "Unable to load feed.json yet";
-        const container = document.getElementById("feed-container");
-        container.className = "";
-        container.innerHTML = `<div class="empty">Waiting for feed data (${escapeHtml(err.message)}).</div>`;
-      }
+            </article>
+          `;
+        })
+        .join("");
     }
 
     document.querySelectorAll(".filter-btn").forEach((btn) => {
       btn.addEventListener("click", () => {
-        document.querySelectorAll(".filter-btn").forEach((b) => b.classList.remove("active"));
+        document
+          .querySelectorAll(".filter-btn")
+          .forEach((b) => b.classList.remove("active"));
         btn.classList.add("active");
         activeCategory = btn.dataset.category;
-        renderFeed();
+        renderItems();
       });
     });
 
-    loadFeed();
+    fetch("/feed.json?t=" + Date.now())
+      .then((res) => res.json())
+      .then((data) => {
+        allItems = Array.isArray(data) ? data : data.items || [];
+        renderItems();
+      })
+      .catch(() => {
+        document.getElementById("feed").innerHTML =
+          '<div class="empty">Unable to load feed.json right now.</div>';
+      });
   </script>
 </body>
 </html>
+
 
