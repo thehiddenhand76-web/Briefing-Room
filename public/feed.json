@@ -1,178 +1,301 @@
-[
-  {
-    "id": "9a18ca2366ae",
-    "category": "POLITICS",
-    "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-    "source": "NPR Topics: Politics",
-    "published_at": "2026-11-20T04:45:57.259044+00:00"
-  },
-  {
-    "id": "effe0ba29fb1",
-    "category": "POLITICS",
-    "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-    "source": "NPR Topics: Politics",
-    "published_at": "2026-11-20T04:45:59.765368+00:00"
-  },
-  {
-    "id": "666ba17e2953",
-    "category": "POLITICS",
-    "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-    "source": "NPR Topics: Politics",
-    "published_at": "2026-11-20T04:46:02.290001+00:00"
-  },
-  {
-    "id": "8bb330a5cfc1",
-    "category": "POLITICS",
-    "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-    "source": "NPR Topics: Politics",
-    "published_at": "2026-11-20T04:46:04.806140+00:00"
-  },
-  {
-    "id": "13cc81829ab9",
-    "category": "MACRO",
-    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
-    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:08.228922+00:00"
-  },
-  {
-    "id": "f99faa579e1e",
-    "category": "MACRO",
-    "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:10.728585+00:00"
-  },
-  {
-    "id": "f27651a0442d",
-    "category": "MACRO",
-    "title": "After Anthropic\u2019s \u2018bittersweet\u2019 IPO, here\u2019s what lies ahead",
-    "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:13.247312+00:00"
-  },
-  {
-    "id": "cd75ae977e1e",
-    "category": "MACRO",
-    "title": "These were the only stocks that rose amid the stock market\u2019s wipeout Thursday",
-    "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:15.855249+00:00"
-  },
-  {
-    "id": "54ecf629cb39",
-    "category": "MACRO",
-    "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-    "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:18.696065+00:00"
-  },
-  {
-    "id": "5b35616e5755",
-    "category": "MACRO",
-    "title": "Anthropic\u2019s stock surges in its debut \u2014 and the rest of the market dives anyway",
-    "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:21.340234+00:00"
-  },
-  {
-    "id": "5cfc4f16b602",
-    "category": "MACRO",
-    "title": "Markets are sending troubling signals about the state of the economy",
-    "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:23.832308+00:00"
-  },
-  {
-    "id": "ebfd2ebe9a61",
-    "category": "MACRO",
-    "title": "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days.",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:26.324639+00:00"
-  },
-  {
-    "id": "288d46dad884",
-    "category": "STOCKS",
-    "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse",
-    "source": "MarketWatch.com",
-    "published_at": "2026-11-20T04:46:33.766746+00:00"
-  },
-  {
-    "id": "00365391608b",
-    "category": "CRYPTO",
-    "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-    "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:37.192308+00:00"
-  },
-  {
-    "id": "63dd732d8c16",
-    "category": "CRYPTO",
-    "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:40.174825+00:00"
-  },
-  {
-    "id": "042c18ea4f55",
-    "category": "CRYPTO",
-    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-    "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:42.696912+00:00"
-  },
-  {
-    "id": "9ee038a804b0",
-    "category": "CRYPTO",
-    "title": "Anthropic gains after IPO, but pulls off highest levels",
-    "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:45.181411+00:00"
-  },
-  {
-    "id": "2104f6c37af7",
-    "category": "CRYPTO",
-    "title": "Crypto for Advisors: Falling prices drove October\u2019s 10% drop in institutional crypto exposure",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:47.667741+00:00"
-  },
-  {
-    "id": "82d8bc128ccb",
-    "category": "CRYPTO",
-    "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-    "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:50.165300+00:00"
-  },
-  {
-    "id": "f5e1b3b6ba75",
-    "category": "CRYPTO",
-    "title": "Crypto traders vs. Wall Street: OKX\u2019s Anthropic markets put IPO pricing to the test",
-    "link": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:52.997385+00:00"
-  },
-  {
-    "id": "15ca52071ceb",
-    "category": "CRYPTO",
-    "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-    "link": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:46:58.620218+00:00"
-  },
-  {
-    "id": "a9460e9765a0",
-    "category": "CRYPTO",
-    "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-    "published_at": "2026-11-20T04:47:01.804282+00:00"
-  }
-]
+{
+  "updated_at": "2026-11-20T06:48:06.481008+00:00",
+  "items": [
+    {
+      "id": "c678ace1f7b9c3d6122f268f25856b8cc9c3a761b6a7cf3c94181e808ffb8e17",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Melania Trump marks world premiere of Prime Video docuseries",
+      "summary": "NEW YORK — Melania Trump is celebrating her docuseries debut, stepping out for a Hollywood-style premiere of “Melania: The Series.” The first lady traded the White House for the black — rather than red — carpet on Thurs…",
+      "link": "https://thehill.com/blogs/in-the-know/6232403-melania-trump-prime-video-series/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324091480575-e1795147788528.jpg?w=900",
+      "published_at": "2026-11-20T04:23:02+00:00"
+    },
+    {
+      "id": "02a3b5abb70fa24e7a3b21b7aecdda0df427de82fb1ecd8e03d14a860e0faeef",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Army postpones controlled lead detonation after pleas from Iowa lawmakers",
+      "summary": "Acting Army Secretary Adam Telle announced he would be postponing Friday’s detonations of lead azide barrels in Iowa amid heavy pushback from lawmakers who say they were given short notice about the planned explosions.…",
+      "link": "https://thehill.com/homenews/state-watch/6232362-army-postpones-iowa-detonations/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26246847667088-e1788482851235.jpg?w=900",
+      "published_at": "2026-11-20T03:57:32+00:00"
+    },
+    {
+      "id": "445d589ce7518b0a17f1a472f844c011417a8048e7a88fecc754011dbe87aab1",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Russell Brand’s crimes were an ‘open secret’: Why didn’t anyone stop him?",
+      "summary": "Why is the same industry that protected Brand and other men, like Harvey Weinstein, making projects about them?",
+      "link": "https://thehill.com/homenews/6231191-russell-brands-crimes-were-an-open-secret-why-didnt-anyone-stop-him/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Russell-Brand-Harvey-Weinstein-side-by-side.jpeg?w=900",
+      "published_at": "2026-11-20T03:52:55+00:00"
+    },
+    {
+      "id": "33a64285ac0125e6742ff0d153820c7cbc40f03822580d7842a840156b6075c3",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Family of Robb Elementary victim hope their experience inspires mass casualty preparedness at hospitals",
+      "summary": "Javier choked up as he spoke about the moment he and his family identified the body of their nine-year-old daughter, Jackie. She was one of the 19 students who was shot and killed by an 18-year-old gunman at Robb Elemen…",
+      "link": "https://thehill.com/homenews/6231787-family-of-robb-elementary-victim-hope-their-experience-inspires-mass-casualty-preparedness-at-hospitals/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/javier-and-gloria.jpg?w=900",
+      "published_at": "2026-11-20T03:42:35+00:00"
+    },
+    {
+      "id": "23f16ec3b38b2450b7c9e00d5eb8a89c8cdacb78c93ae680f19dbb8589e7ca91",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "DOJ looks to dismiss Alaska Senate lawsuit",
+      "summary": "The Department of Justice (DOJ) is looking to dismiss its lawsuit that was focused on blocking the certification of Alaska’s Senate race if Sen.-elect Mary Peltola (D) won, according to Thursday court filings. This case…",
+      "link": "https://thehill.com/regulation/court-battles/6232324-doj-seeks-alaska-senate-lawsuit-dismissal/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/08/doj_120425gn04_w.jpg?w=900",
+      "published_at": "2026-11-20T03:25:33+00:00"
+    },
+    {
+      "id": "9b698e0cbc91be365a0adbffd7426a9648aad3cdbae0830d0fe14737ba33cc58",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Senate approves key permitting reform bill, sends to House",
+      "summary": "The Senate on Thursday passed a major bill that seeks to speed up the buildout of the nation’s energy and infrastructure — taking a massive step toward the bill becoming law. The vote was passed by a vote of 62-33. Just…",
+      "link": "https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26273806278245_0ce3ce-e1795096867606.jpg?w=900",
+      "published_at": "2026-11-20T03:09:11+00:00"
+    },
+    {
+      "id": "7b6d2229abdbd11b4363388ecdb1026774982862142574e24f5223a5d47dc8d6",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Trump’s CISA nominee ducks questions on 2020 election results, Jan. 6 Capitol attack",
+      "summary": "Michael LoSapio, President Trump’s nominee to lead the Cybersecurity and Infrastructure Security Agency (CISA), on Thursday ducked questions from lawmakers about the Jan. 6, 2021, U.S. Capitol attack and who won the 202…",
+      "link": "https://thehill.com/homenews/administration/6231922-senate-holds-losapio-cisa-nomination/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26323606872736-e1795140863269.jpg?w=900",
+      "published_at": "2026-11-20T02:29:35+00:00"
+    },
+    {
+      "id": "616cc8e718cba87e75b49f078bbb0280482c5ed65a310083845d2b8332bf53d3",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Fetterman says Van Hollen will lose majority leader race: ‘I’m not sure why that’s news’",
+      "summary": "Sen. John Fetterman (D-Pa.) said he was “not sure” why Sen. Chris Van Hollen (D-Md.) running for Senate majority leader was news. “I think he loses, and … I’m not sure why that’s news. You’ll have to see how that vote g…",
+      "link": "https://thehill.com/homenews/senate/6232158-fetterman-criticizes-van-hollen-senate/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2023/05/fettermanjohn_schumerchuck_041823ag02_w.jpg?w=900",
+      "published_at": "2026-11-20T01:15:17+00:00"
+    },
+    {
+      "id": "f6ec612bdffb23ebf3704dcff620420a92b52d6e126df1c665984cf3ffcff316",
+      "category": "POLITICS",
+      "source": "Politico",
+      "title": "Chris Christie says MAGA has the ‘smell of politically rotting flesh’",
+      "summary": "",
+      "link": "https://www.politico.com/video/2026/11/20/chris-christie-says-maga-has-the-smell-of-politically-rotting-flesh-2234771",
+      "image": "politics.jpg",
+      "published_at": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "e6d12245dc7d40af34818a7508ae8203392e38ff8afd5673ef75ecc4ee4bf603",
+      "category": "POLITICS",
+      "source": "Politico",
+      "title": "Rob Sand shuts down any talk of 2028",
+      "summary": "The incoming Iowa governor said he's unlikely to ever consider running for president.",
+      "link": "https://www.politico.com/news/2026/11/19/rob-sand-iowa-2028-01177322",
+      "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/99a56b2d-a6d8-47fc-ae6f-689440c280cc/785937aa-fa5e-4a1b-af3c-525c4f4cb155/1280x720/match/image.jpg",
+      "published_at": "2026-11-19T23:54:25+00:00"
+    },
+    {
+      "id": "16ae342091416b8811117de384c7b50186205f7cb37575930c9c0c3fd3b22362",
+      "category": "POLITICS",
+      "source": "Politico",
+      "title": "Massachusetts gov says Dems want ‘a uniter and a fighter’ for 2028",
+      "summary": "Democrat Maura Healey just won her second term as governor.",
+      "link": "https://www.politico.com/news/2026/11/19/massachusetts-gov-maura-healey-2028-01177150",
+      "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/9d568ca0-6533-458e-a93b-8708bd94f862/74d53dc2-bb83-4a3a-877c-ffd686f3e001/1280x720/match/image.jpg",
+      "published_at": "2026-11-19T23:14:37+00:00"
+    },
+    {
+      "id": "e1d507c341f97fedaa402b2fac4f9f5042f2fdcde5eed5e40f8960fe3f9fa928",
+      "category": "POLITICS",
+      "source": "Politico",
+      "title": "Keisha Lance Bottoms says Democrats better spend big on the South",
+      "summary": "Georgia's new governor says Democrats shouldn't have to ‘beg and borrow’ to get resources for campaigns in the South.",
+      "link": "https://www.politico.com/news/2026/11/19/keisha-lance-bottoms-democrats-campaigns-south-01177147",
+      "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/713615fd-711c-4c4e-b7d3-3f79008e2f58/0a2cae8e-f752-454c-a35d-737faac970a0/1280x720/match/image.jpg",
+      "published_at": "2026-11-19T23:11:12+00:00"
+    },
+    {
+      "id": "9a18ca2366ae",
+      "category": "POLITICS",
+      "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-11-20T04:45:57.259044+00:00"
+    },
+    {
+      "id": "effe0ba29fb1",
+      "category": "POLITICS",
+      "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-11-20T04:45:59.765368+00:00"
+    },
+    {
+      "id": "666ba17e2953",
+      "category": "POLITICS",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-11-20T04:46:02.290001+00:00"
+    },
+    {
+      "id": "8bb330a5cfc1",
+      "category": "POLITICS",
+      "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+      "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "source": "NPR Topics: Politics",
+      "published_at": "2026-11-20T04:46:04.806140+00:00"
+    },
+    {
+      "id": "13cc81829ab9",
+      "category": "MACRO",
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:08.228922+00:00"
+    },
+    {
+      "id": "f99faa579e1e",
+      "category": "MACRO",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:10.728585+00:00"
+    },
+    {
+      "id": "f27651a0442d",
+      "category": "MACRO",
+      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:13.247312+00:00"
+    },
+    {
+      "id": "cd75ae977e1e",
+      "category": "MACRO",
+      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+      "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:15.855249+00:00"
+    },
+    {
+      "id": "54ecf629cb39",
+      "category": "MACRO",
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:18.696065+00:00"
+    },
+    {
+      "id": "5b35616e5755",
+      "category": "MACRO",
+      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:21.340234+00:00"
+    },
+    {
+      "id": "5cfc4f16b602",
+      "category": "MACRO",
+      "title": "Markets are sending troubling signals about the state of the economy",
+      "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:23.832308+00:00"
+    },
+    {
+      "id": "ebfd2ebe9a61",
+      "category": "MACRO",
+      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:26.324639+00:00"
+    },
+    {
+      "id": "288d46dad884",
+      "category": "STOCKS",
+      "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse",
+      "source": "MarketWatch.com",
+      "published_at": "2026-11-20T04:46:33.766746+00:00"
+    },
+    {
+      "id": "00365391608b",
+      "category": "CRYPTO",
+      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:37.192308+00:00"
+    },
+    {
+      "id": "63dd732d8c16",
+      "category": "CRYPTO",
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:40.174825+00:00"
+    },
+    {
+      "id": "042c18ea4f55",
+      "category": "CRYPTO",
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:42.696912+00:00"
+    },
+    {
+      "id": "9ee038a804b0",
+      "category": "CRYPTO",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:45.181411+00:00"
+    },
+    {
+      "id": "2104f6c37af7",
+      "category": "CRYPTO",
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:47.667741+00:00"
+    },
+    {
+      "id": "82d8bc128ccb",
+      "category": "CRYPTO",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:50.165300+00:00"
+    },
+    {
+      "id": "f5e1b3b6ba75",
+      "category": "CRYPTO",
+      "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+      "link": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:52.997385+00:00"
+    },
+    {
+      "id": "15ca52071ceb",
+      "category": "CRYPTO",
+      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+      "link": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:46:58.620218+00:00"
+    },
+    {
+      "id": "a9460e9765a0",
+      "category": "CRYPTO",
+      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "published_at": "2026-11-20T04:47:01.804282+00:00"
+    }
+  ]
+}
