@@ -1,31 +1,477 @@
-.toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 18px;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Briefing Room</title>
+  <link rel="icon" type="image/png" href="/briefing-room-logo.png" />
+  <style>
+    :root {
+      --bg: #070b14;
+      --surface: #0e1526;
+      --surface-2: #141e36;
+      --border: #22304f;
+      --text: #f3f6fc;
+      --muted: #93a4c3;
+      --accent: #eab308;
+      --accent-soft: rgba(234, 179, 8, 0.14);
+      --tg: #29a9eb;
+    }
 
-.search-input {
-  flex: 1 1 220px;
-  max-width: 340px;
-  background: var(--surface);
-  color: var(--text);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: 8px 14px;
-  font-size: 0.85rem;
-  outline: none;
-}
+    * {
+      box-sizing: border-box;
+    }
 
-.search-input:focus {
-  border-color: var(--accent);
-}
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.45;
+    }
 
-.search-input::placeholder {
-  color: var(--muted);
-}
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(7, 11, 20, 0.92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .topbar-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 12px 16px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .brand-logo {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 1.5px solid var(--accent);
+      background: var(--surface-2);
+      flex-shrink: 0;
+    }
+
+    .brand-text {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .brand-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .brand-sub {
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+
+    .tg-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: rgba(41, 169, 235, 0.14);
+      border: 1px solid rgba(41, 169, 235, 0.45);
+      color: #7cd2ff;
+      font-size: 0.85rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .tg-btn:hover {
+      background: rgba(41, 169, 235, 0.24);
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .filter-btn {
+      background: var(--surface);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 7px 14px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      cursor: pointer;
+    }
+
+    .filter-btn.active,
+    .filter-btn:hover {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      color: var(--text);
+    }
+
+    .search-input {
+      flex: 1 1 220px;
+      max-width: 340px;
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 8px 14px;
+      font-size: 0.85rem;
+      outline: none;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+    }
+
+    .search-input::placeholder {
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 175px;
+      object-fit: cover;
+      background: var(--surface-2);
+      display: block;
+    }
+
+    .card-body {
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      flex: 1;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 0.74rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .badge {
+      background: var(--accent-soft);
+      color: #facc15;
+      border: 1px solid rgba(234, 179, 8, 0.35);
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-weight: 700;
+    }
+
+    .card-title {
+      margin: 0;
+      font-size: 1rem;
+      line-height: 1.38;
+      font-weight: 600;
+    }
+
+    .card-title a:hover {
+      color: #facc15;
+    }
+
+    .card-footer {
+      margin-top: auto;
+      padding-top: 8px;
+      border-top: 1px solid rgba(34, 48, 79, 0.65);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+
+    .empty {
+      color: var(--muted);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+      grid-column: 1 / -1;
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="/">
+        <img
+          src="/briefing-room-logo.png"
+          alt="The Briefing Room Logo"
+          class="brand-logo"
+          width="44"
+          height="44"
+        />
+        <span class="brand-text">
+          <span class="brand-title">The Briefing Room</span>
+          <span class="brand-sub">Live Politics • Macro • Stocks • Crypto</span>
+        </span>
+      </a>
+
+      <a
+        class="tg-btn"
+        href="https://t.me/thebriefingroom99"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span>@thebriefingroom99</span>
+      </a>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="toolbar">
+      <nav class="filters" aria-label="Category filters">
+        <button class="filter-btn active" data-category="ALL">ALL</button>
+        <button class="filter-btn" data-category="POLITICS">POLITICS</button>
+        <button class="filter-btn" data-category="MACRO">MACRO</button>
+        <button class="filter-btn" data-category="STOCKS">STOCKS</button>
+        <button class="filter-btn" data-category="CRYPTO">CRYPTO</button>
+      </nav>
+
+      <input
+        id="searchInput"
+        class="search-input"
+        type="search"
+        placeholder="Search headlines, sources, tickers..."
+        aria-label="Search dispatches"
+      />
+    </div>
+
+    <section id="feed" class="grid" aria-live="polite">
+      <div class="empty">Loading dispatches...</div>
+    </section>
+  </main>
+
+  <script>
+    const CATEGORIES = ["ALL", "POLITICS", "MACRO", "STOCKS", "CRYPTO"];
+    const FALLBACKS = {
+      POLITICS: "/politics.jpg",
+      MACRO: "/macro.jpg",
+      STOCKS: "/stocks.jpg",
+      CRYPTO: "/crypto.jpg"
+    };
+
+    let allItems = [];
+    let activeCategory = "ALL";
+    let searchQuery = "";
+
+    function getFallbackImage(category) {
+      const key = (category || "").toUpperCase();
+      return FALLBACKS[key] || "/briefing-room-logo.png";
+    }
+
+    function escapeHtml(str) {
+      return String(str || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function formatTimeAgo(rawDate) {
+      if (!rawDate) return "";
+      const parsed = Date.parse(rawDate);
+      if (Number.isNaN(parsed)) return rawDate;
+
+      const diffSec = Math.max(0, Math.floor((Date.now() - parsed) / 1000));
+      if (diffSec < 60) return "Just now";
+      const diffMin = Math.floor(diffSec / 60);
+      if (diffMin < 60) return `${diffMin}m ago`;
+      const diffHr = Math.floor(diffMin / 60);
+      if (diffHr < 24) return `${diffHr}h ago`;
+      const diffDay = Math.floor(diffHr / 24);
+      return `${diffDay}d ago`;
+    }
+
+    function updateCategoryCounts() {
+      const q = searchQuery.trim().toLowerCase();
+      const searchMatches = q
+        ? allItems.filter((item) => {
+            const haystack = [
+              item.title,
+              item.source,
+              item.category,
+              item.summary,
+              item.description
+            ]
+              .filter(Boolean)
+              .join(" ")
+              .toLowerCase();
+            return haystack.includes(q);
+          })
+        : allItems;
+
+      document.querySelectorAll(".filter-btn").forEach((btn) => {
+        const cat = btn.dataset.category;
+        const count =
+          cat === "ALL"
+            ? searchMatches.length
+            : searchMatches.filter(
+                (item) => (item.category || "").toUpperCase() === cat
+              ).length;
+        btn.textContent = `${cat} (${count})`;
+      });
+    }
+
+    function renderItems() {
+      updateCategoryCounts();
+
+      const container = document.getElementById("feed");
+      const q = searchQuery.trim().toLowerCase();
+
+      const filtered = allItems.filter((item) => {
+        const cat = (item.category || "").toUpperCase();
+        const matchesCat = activeCategory === "ALL" || cat === activeCategory;
+        if (!matchesCat) return false;
+
+        if (!q) return true;
+        const haystack = [
+          item.title,
+          item.source,
+          item.category,
+          item.summary,
+          item.description
+        ]
+          .filter(Boolean)
+          .join(" ")
+          .toLowerCase();
+        return haystack.includes(q);
+      });
+
+      if (!filtered.length) {
+        container.innerHTML =
+          '<div class="empty">No matching dispatches found.</div>';
+        return;
+      }
+
+      container.innerHTML = filtered
+        .map((item) => {
+          const cat = (item.category || "NEWS").toUpperCase();
+          const fallback = getFallbackImage(cat);
+          const imgSrc = item.image || item.image_url || fallback;
+          const title = escapeHtml(item.title || "Untitled Dispatch");
+          const source = escapeHtml(item.source || "Briefing");
+          const link = item.link || item.url || "#";
+          const rawDate = item.published || item.pubDate || item.timestamp || "";
+          const timeLabel = formatTimeAgo(rawDate);
+
+          return `
+            <article class="card">
+              <img
+                class="card-img"
+                src="${escapeHtml(imgSrc)}"
+                alt="${title}"
+                loading="lazy"
+                onerror="this.onerror=null;this.src='${fallback}';"
+              />
+              <div class="card-body">
+                <div class="card-meta">
+                  <span class="badge">${escapeHtml(cat)}</span>
+                  <span>${source}</span>
+                </div>
+                <h2 class="card-title">
+                  <a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">${title}</a>
+                </h2>
+                <div class="card-footer">
+                  <span title="${escapeHtml(rawDate)}">${escapeHtml(timeLabel)}</span>
+                  <a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">Read →</a>
+                </div>
+              </div>
+            </article>
+          `;
+        })
+        .join("");
+    }
+
+    document.querySelectorAll(".filter-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        document
+          .querySelectorAll(".filter-btn")
+          .forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        activeCategory = btn.dataset.category;
+        renderItems();
+      });
+    });
+
+    document.getElementById("searchInput").addEventListener("input", (e) => {
+      searchQuery = e.target.value || "";
+      renderItems();
+    });
+
+    fetch("/feed.json?t=" + Date.now())
+      .then((res) => res.json())
+      .then((data) => {
+        allItems = Array.isArray(data) ? data : data.items || [];
+        renderItems();
+      })
+      .catch(() => {
+        document.getElementById("feed").innerHTML =
+          '<div class="empty">Unable to load feed.json right now.</div>';
+      });
+  </script>
+</body>
+                                                                      </html>
 
 
 
