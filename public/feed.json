@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-21T01:50:32.134157+00:00",
+  "updated_at": "2026-11-21T03:32:48.913317+00:00",
   "items": [
+    {
+      "id": "9aa2702fedbd9163e14d384000b91078a9a316d89a73026fec757cb5057a632c",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Democratic Sen.-elect Colom responds to Trump’s praise",
+      "summary": "Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump’s recent praise of his midterm campaign strategy, saying his tactic of reaching out to Republicans during the election cycle shows how h…",
+      "link": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26316139782135-e1795231057957.jpg?w=900",
+      "published_at": "2026-11-21T03:09:44+00:00"
+    },
+    {
+      "id": "104011c16b72f5fe656bf2250d904a106158bb605011ca958e5b8ef57c8e774a",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
+      "summary": "The former mayor of Jackson, Miss., was sentenced to more than three years in federal prison after pleading guilty to bribery charges from his time in office. Former Mayor Chokwe Antar Lumumba (D) was indicted on charge…",
+      "link": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a4d27687f4e11.22721629-e1795225794941.jpeg?w=900",
+      "published_at": "2026-11-21T02:10:18+00:00"
+    },
+    {
+      "id": "2d29b185614044bc113a713cd316a0605a78bf89a5f8c9ac07697b3f89dad67a",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+      "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-46571930",
+      "published_at": "2026-11-21T03:20:00+00:00"
+    },
     {
       "id": "404a79f0ad0b99d80ede95f05da91909ae925596e9fb5f6e2cbc85b3322ff8a6",
       "category": "POLITICS",
@@ -552,30 +582,6 @@
       "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
       "source": "MarketWatch.com",
       "published_at": "2026-11-20T04:46:18.696065+00:00"
-    },
-    {
-      "id": "5b35616e5755",
-      "category": "MACRO",
-      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:21.340234+00:00"
-    },
-    {
-      "id": "5cfc4f16b602",
-      "category": "MACRO",
-      "title": "Markets are sending troubling signals about the state of the economy",
-      "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:23.832308+00:00"
-    },
-    {
-      "id": "ebfd2ebe9a61",
-      "category": "MACRO",
-      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:26.324639+00:00"
     }
   ]
 }
