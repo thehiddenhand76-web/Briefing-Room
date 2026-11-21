@@ -181,11 +181,17 @@
       flex-direction: column;
     }
 
-    .card-img {
+    .card-img-wrap {
       width: 100%;
       height: 175px;
+      background: linear-gradient(135deg, #0b1222 0%, #16223d 100%);
+      overflow: hidden;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 100%;
       object-fit: cover;
-      background: var(--surface-2);
       display: block;
     }
 
@@ -303,7 +309,6 @@
   </main>
 
   <script>
-    const CATEGORIES = ["ALL", "POLITICS", "MACRO", "STOCKS", "CRYPTO"];
     const FALLBACKS = {
       POLITICS: "/politics.jpg",
       MACRO: "/macro.jpg",
@@ -316,8 +321,16 @@
     let searchQuery = "";
 
     function getFallbackImage(category) {
-      const key = (category || "").toUpperCase();
+      const key = (category || "").toUpperCase().trim();
       return FALLBACKS[key] || "/briefing-room-logo.png";
+    }
+
+    function resolveImageUrl(item, fallback) {
+      const raw = (item.image || item.image_url || item.img || "").trim();
+      if (!raw || raw.toLowerCase() === "none" || raw.toLowerCase() === "null") {
+        return fallback;
+      }
+      return raw;
     }
 
     function escapeHtml(str) {
@@ -341,6 +354,23 @@
       if (diffHr < 24) return `${diffHr}h ago`;
       const diffDay = Math.floor(diffHr / 24);
       return `${diffDay}d ago`;
+    }
+
+    function handleImgError(img, fallback) {
+      if (!img.dataset.step) {
+        img.dataset.step = "1";
+        if (img.getAttribute("src") !== fallback) {
+          img.src = fallback;
+          return;
+        }
+      }
+      if (img.dataset.step === "1") {
+        img.dataset.step = "2";
+        img.src = "/briefing-room-logo.png";
+        return;
+      }
+      img.onerror = null;
+      img.style.display = "none";
     }
 
     function updateCategoryCounts() {
@@ -367,7 +397,7 @@
           cat === "ALL"
             ? searchMatches.length
             : searchMatches.filter(
-                (item) => (item.category || "").toUpperCase() === cat
+                (item) => (item.category || "").toUpperCase().trim() === cat
               ).length;
         btn.textContent = `${cat} (${count})`;
       });
@@ -380,7 +410,7 @@
       const q = searchQuery.trim().toLowerCase();
 
       const filtered = allItems.filter((item) => {
-        const cat = (item.category || "").toUpperCase();
+        const cat = (item.category || "").toUpperCase().trim();
         const matchesCat = activeCategory === "ALL" || cat === activeCategory;
         if (!matchesCat) return false;
 
@@ -406,9 +436,9 @@
 
       container.innerHTML = filtered
         .map((item) => {
-          const cat = (item.category || "NEWS").toUpperCase();
+          const cat = (item.category || "NEWS").toUpperCase().trim();
           const fallback = getFallbackImage(cat);
-          const imgSrc = item.image || item.image_url || fallback;
+          const imgSrc = resolveImageUrl(item, fallback);
           const title = escapeHtml(item.title || "Untitled Dispatch");
           const source = escapeHtml(item.source || "Briefing");
           const link = item.link || item.url || "#";
@@ -417,13 +447,16 @@
 
           return `
             <article class="card">
-              <img
-                class="card-img"
-                src="${escapeHtml(imgSrc)}"
-                alt="${title}"
-                loading="lazy"
-                onerror="this.onerror=null;this.src='${fallback}';"
-              />
+              <a class="card-img-wrap" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">
+                <img
+                  class="card-img"
+                  src="${escapeHtml(imgSrc)}"
+                  alt=""
+                  referrerpolicy="no-referrer"
+                  loading="lazy"
+                  onerror="handleImgError(this, '${escapeHtml(fallback)}')"
+                />
+              </a>
               <div class="card-body">
                 <div class="card-meta">
                   <span class="badge">${escapeHtml(cat)}</span>
@@ -471,7 +504,4 @@
       });
   </script>
 </body>
-                                                                      </html>
-
-
-
+</html>
