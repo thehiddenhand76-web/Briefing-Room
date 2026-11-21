@@ -72,7 +72,7 @@ URGENT_TRIGGERS = (
 )
 
 
-def init_db() -> sqlite3.Connection:
+def init_db() -> tuple[sqlite3.Connection, str]:
     conn = sqlite3.connect(DB_PATH)
     conn.execute(
         """
@@ -84,18 +84,31 @@ def init_db() -> sqlite3.Connection:
         )
         """
     )
+
+    cols = [row[1] for row in conn.execute("PRAGMA table_info(seen)").fetchall()]
+    if "link" in cols:
+        key_col = "link"
+    elif cols:
+        key_col = cols[0]
+    else:
+        key_col = "link"
+
+    for col_name in ("title", "category", "created_at"):
+        if col_name not in cols:
+            conn.execute(f"ALTER TABLE seen ADD COLUMN {col_name} TEXT")
+
     conn.commit()
-    return conn
+    return conn, key_col
 
 
-def is_seen(conn: sqlite3.Connection, link: str) -> bool:
-    cur = conn.execute("SELECT 1 FROM seen WHERE link = ?", (link,))
+def is_seen(conn: sqlite3.Connection, key_col: str, link: str) -> bool:
+    cur = conn.execute(f"SELECT 1 FROM seen WHERE {key_col} = ?", (link,))
     return cur.fetchone() is not None
 
 
-def mark_seen(conn: sqlite3.Connection, link: str, title: str, category: str) -> None:
+def mark_seen(conn: sqlite3.Connection, key_col: str, link: str, title: str, category: str) -> None:
     conn.execute(
-        "INSERT OR IGNORE INTO seen (link, title, category, created_at) VALUES (?, ?, ?, ?)",
+        f"INSERT OR IGNORE INTO seen ({key_col}, title, category, created_at) VALUES (?, ?, ?, ?)",
         (link, title, category, datetime.now(timezone.utc).isoformat()),
     )
     conn.commit()
@@ -227,7 +240,7 @@ def save_feed(items: list) -> None:
 
 
 def main() -> None:
-    conn = init_db()
+    conn, key_col = init_db()
     existing_items = load_existing_feed()
     new_items = []
     posted_count = 0
@@ -248,11 +261,11 @@ def main() -> None:
             if not link or not raw_title:
                 continue
 
-            if is_seen(conn, link):
+            if is_seen(conn, key_col, link):
                 continue
 
             if not is_high_signal(raw_title):
-                mark_seen(conn, link, raw_title, default_cat)
+                mark_seen(conn, key_col, link, raw_title, default_cat)
                 continue
 
             category = detect_category(raw_title, default_cat)
@@ -261,7 +274,7 @@ def main() -> None:
             source = extract_source(link)
             published_iso = datetime.now(timezone.utc).isoformat()
 
-            mark_seen(conn, link, headline, category)
+            mark_seen(conn, key_col, link, headline, category)
 
             item = {
                 "title": headline,
@@ -293,4 +306,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-    
+         
