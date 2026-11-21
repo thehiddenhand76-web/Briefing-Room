@@ -1,5 +1,37 @@
 [
   {
+    "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221129_Hack-Exploit-2.jpg",
+    "published": "2026-11-21T16:29:04.242317+00:00"
+  },
+  {
+    "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2021/01/signal-app-ios-android-gID_7.jpg",
+    "published": "2026-11-21T16:29:06.356655+00:00"
+  },
+  {
+    "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+    "category": "MACRO",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-49247042",
+    "published": "2026-11-21T16:29:08.454158+00:00"
+  },
+  {
+    "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+    "image": "",
+    "published": "2026-11-21T16:29:11.228734+00:00"
+  },
+  {
     "title": "JUST IN: Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -962,45 +994,5 @@
     "link": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
     "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324632540248-e1795204865545.jpg?w=900",
     "published_at": "2026-11-20T20:08:14+00:00"
-  },
-  {
-    "id": "b20894850f486cf183f0129798b9143fe3ff16615f79077352057f88d29def56",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "House Democrats reiterate support for McIver after appeals court denies petition",
-    "summary": "House Democrats rallied behind Rep. LaMonica McIver (D-N.J.) on Friday, after a federal appeals court declined her petition for a full panel to consider dismissing charges tied to a scuffle outside of an immigration det…",
-    "link": "https://thehill.com/homenews/house/6234013-house-democrats-reup-support-lamonica-mciver/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2025/11/691b6c2b135fd0.27204830-e1795203404527.jpeg?w=900",
-    "published_at": "2026-11-20T19:54:56+00:00"
-  },
-  {
-    "id": "aa0d142e6f269f8ce29bad8f580a34c5d92ae62ffe2e156a10cfe5e72d43d8d7",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
-    "summary": "President Trump and UFC CEO Dana White will host a reception Friday honoring the United States Marine Band on the White House’s newly renovated helipad. The president and White are expected to announce a combined $200,0…",
-    "link": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26265144701453-e1795201949891.jpg?w=900",
-    "published_at": "2026-11-20T19:34:54+00:00"
-  },
-  {
-    "id": "ed1be9c93e8553e656845bf1eaf341e3620d1de7a65c747d897159e34dac9813",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Vance deflects on whether Iran war worth political price",
-    "summary": "Vice President Vance dodged the question on Friday of whether he thought the Iran war was worth Republicans losing big in the midterm elections earlier this month. “The president is the one who makes the decision, and t…",
-    "link": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324662046860-e1795199464605.jpg?w=900",
-    "published_at": "2026-11-20T19:32:18+00:00"
-  },
-  {
-    "id": "6395f16388a5d5aba2c8afb458bcfc6201a2b111982cb9b0f87f53dfed865105",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "New report highlights mental health struggles of NHL goalies",
-    "summary": "Former NHL goalie Corey Hirsch told NewsNation mental health is a very real concern among players.",
-    "link": "https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/68412cc84522e0.70028727-e1795202919223.jpeg?w=900",
-    "published_at": "2026-11-20T19:29:36+00:00"
   }
 ]
