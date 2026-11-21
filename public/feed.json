@@ -1,5 +1,61 @@
 [
   {
+    "title": "JUST IN: Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fde67fb13ec22194f44b21fc8ca9b85ce2f9481-1520x856.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T20:56:07.394051+00:00"
+  },
+  {
+    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T20:56:09.675839+00:00"
+  },
+  {
+    "title": "JUST IN: Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
+    "published": "2026-11-21T20:56:12.058032+00:00"
+  },
+  {
+    "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-72281427",
+    "published": "2026-11-21T20:56:14.291858+00:00"
+  },
+  {
+    "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-49247042",
+    "published": "2026-11-21T20:56:16.449779+00:00"
+  },
+  {
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-62799282",
+    "published": "2026-11-21T20:56:18.587853+00:00"
+  },
+  {
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "image": "",
+    "published": "2026-11-21T20:56:21.712117+00:00"
+  },
+  {
     "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
     "category": "CRYPTO",
     "source": "THEBLOCK.CO",
@@ -924,75 +980,5 @@
     "link": "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
     "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324677073184_236196-e1795200751413.jpg?w=900",
     "published_at": "2026-11-20T22:14:58+00:00"
-  },
-  {
-    "id": "01c8260a41792b440777036d86d13e2127260060418b16a7536da74d4ca36ea2",
-    "category": "STOCKS",
-    "source": "MarketWatch",
-    "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-    "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-    "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-22825043",
-    "published_at": "2026-11-20T22:46:00+00:00"
-  },
-  {
-    "id": "461afb426a4072f222ad03a5ec19f166e30a939373acbc48c245b326c89d216f",
-    "category": "STOCKS",
-    "source": "MarketWatch",
-    "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-    "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-    "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-69966637",
-    "published_at": "2026-11-20T22:44:00+00:00"
-  },
-  {
-    "id": "997dbb12fc78545562b683a1d70d117eb540964fd76fc7bb5e644bea427e349d",
-    "category": "STOCKS",
-    "source": "MarketWatch",
-    "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-    "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-    "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-51562776",
-    "published_at": "2026-11-20T22:44:00+00:00"
-  },
-  {
-    "id": "06eb8ef4b411d7bfe65774d9cec7bb553073fead02f16d60e436f814d8abcc3f",
-    "category": "STOCKS",
-    "source": "MarketWatch",
-    "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-    "summary": "A looming oversupply problem could weigh on the stock over the next year",
-    "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-62665344",
-    "published_at": "2026-11-20T21:39:00+00:00"
-  },
-  {
-    "id": "22b0810fda7c27753e61038f9b79bf45176151f6127f464956a974cc223d5481",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
-    "summary": "The White House tapped Pentagon chief information officer Kirsten Davies to serve as acting national cyber director Thursday just after firing Sean Cairncross from the role. Davies managed the Defense Department’s cyber…",
-    "link": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/88e2d5e5b82d4736915b64969f97d168-e1793032516161.jpg?w=900",
-    "published_at": "2026-11-20T20:12:15+00:00"
-  },
-  {
-    "id": "6370ac8130552522560eb201701c3d8b77207727597bcbf473dc9060eb6eaed2",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "DeSantis calls Supreme Court justices ‘potted plants’",
-    "summary": "Florida Gov. Ron DeSantis (R) shut down claims in an interview published Friday that he’s interested in a seat on the Supreme Court — an assertion coming as buzz surrounding his plans for 2028 mounts. DeSantis sat for a…",
-    "link": "https://thehill.com/homenews/state-watch/6234014-ron-desantis-supreme-court-denial/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69d405326b8e48.75365416-e1795205330477.jpeg?w=900",
-    "published_at": "2026-11-20T20:09:45+00:00"
-  },
-  {
-    "id": "5c11d92948b1106f8b5df954b16ec3a3462f92c0eb35c13e13400d6992624441",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Senate adopts resolution honoring Fiona the hippo",
-    "summary": "The U.S. Senate adopted a resolution Friday to honor Fiona the hippo, a beloved inhabitant of the Cincinnati Zoo who died Thursday. Fiona the hippo died days after she ingested a zoo-goer’s hat that accidentally ended u…",
-    "link": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324632540248-e1795204865545.jpg?w=900",
-    "published_at": "2026-11-20T20:08:14+00:00"
   }
 ]
