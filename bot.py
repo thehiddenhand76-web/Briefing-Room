@@ -242,10 +242,17 @@ def save_rss(items: list) -> None:
     xml_items = []
 
     for item in items[:30]:
-        title = html.escape(item.get("title") or "")
-        link = html.escape(item.get("link") or SITE_URL)
-        cat = html.escape(item.get("category") or "NEWS")
-        source = html.escape(item.get("source") or "The Briefing Room")
+        raw_title = item.get("title") or ""
+        raw_link = (item.get("link") or SITE_URL).strip() or SITE_URL
+        raw_cat = item.get("category") or "NEWS"
+        raw_source = item.get("source") or "The Briefing Room"
+
+        title = html.escape(raw_title)
+        link = html.escape(raw_link)
+        cat = html.escape(raw_cat)
+        source = html.escape(raw_source)
+        description = html.escape(f"{raw_title} — {raw_link} (via {raw_source} | #{raw_cat})")
+
         raw_pub = item.get("published") or ""
         try:
             pub_dt = datetime.fromisoformat(raw_pub.replace("Z", "+00:00"))
@@ -259,7 +266,7 @@ def save_rss(items: list) -> None:
             f"      <link>{link}</link>\n"
             f"      <guid isPermaLink=\"true\">{link}</guid>\n"
             f"      <category>{cat}</category>\n"
-            f"      <description>{title} — via {source} (#{cat})</description>\n"
+            f"      <description>{description}</description>\n"
             f"      <pubDate>{pub_rfc}</pubDate>\n"
             f"    </item>"
         )
@@ -356,4 +363,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
+    
