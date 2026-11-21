@@ -1,5 +1,13 @@
 [
   {
+    "title": "Amazon is complaining about NYC Council on shipping labels, too",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+    "image": "",
+    "published": "2026-11-21T22:30:15.239105+00:00"
+  },
+  {
     "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
     "category": "STOCKS",
     "source": "THEBLOCK.CO",
@@ -968,15 +976,5 @@
     "link": "https://thehill.com/homenews/senate/6234605-shaheen-coons-condemn-russia-airspace-incursions/",
     "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/shaheenjeanne_060226gn04_w.jpg?w=900",
     "published_at": "2026-11-20T22:37:39+00:00"
-  },
-  {
-    "id": "3df0b8bbdcd8d532fb00eb81718076a8ef2a74c4ee741df9e390fabcdcb6f2b9",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Senate GOP pushes through Trump judges in preholiday sprint",
-    "summary": "Senate Republican leaders convened a rare Friday session to vote on a slate of President Trump’s judicial nominees. Senate Majority Leader John Thune (R-S.D.) has said he wants to confirm as many judges, who will serve…",
-    "link": "https://thehill.com/homenews/senate/6234572-senate-confirms-trump-judges/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/thunejohn_092926gn03_w.jpg?w=900",
-    "published_at": "2026-11-20T22:17:22+00:00"
   }
 ]
