@@ -5,6 +5,7 @@ import re
 import sqlite3
 import time
 from datetime import datetime, timezone
+from email.utils import format_datetime
 from urllib.parse import urlparse
 
 import feedparser
@@ -15,6 +16,8 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "@thebriefingroom99").strip()
 
 DB_PATH = "seen_items.db"
 FEED_JSON_PATH = "public/feed.json"
+RSS_XML_PATH = "public/rss.xml"
+SITE_URL = "https://briefing-room-dtv.pages.dev"
 MAX_FEED_ITEMS = 120
 MAX_POSTS_PER_RUN = 8
 
@@ -233,10 +236,56 @@ def load_existing_feed() -> list:
         return []
 
 
+def save_rss(items: list) -> None:
+    os.makedirs(os.path.dirname(RSS_XML_PATH), exist_ok=True)
+    now_rfc = format_datetime(datetime.now(timezone.utc))
+    xml_items = []
+
+    for item in items[:30]:
+        title = html.escape(item.get("title") or "")
+        link = html.escape(item.get("link") or SITE_URL)
+        cat = html.escape(item.get("category") or "NEWS")
+        source = html.escape(item.get("source") or "The Briefing Room")
+        raw_pub = item.get("published") or ""
+        try:
+            pub_dt = datetime.fromisoformat(raw_pub.replace("Z", "+00:00"))
+            pub_rfc = format_datetime(pub_dt)
+        except Exception:
+            pub_rfc = now_rfc
+
+        xml_items.append(
+            f"    <item>\n"
+            f"      <title>{title}</title>\n"
+            f"      <link>{link}</link>\n"
+            f"      <guid isPermaLink=\"true\">{link}</guid>\n"
+            f"      <category>{cat}</category>\n"
+            f"      <description>{title} — via {source} (#{cat})</description>\n"
+            f"      <pubDate>{pub_rfc}</pubDate>\n"
+            f"    </item>"
+        )
+
+    rss_content = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0">\n'
+        "  <channel>\n"
+        "    <title>The Briefing Room</title>\n"
+        f"    <link>{SITE_URL}</link>\n"
+        "    <description>Live Politics, Macro, Stocks &amp; Crypto Dispatches</description>\n"
+        f"    <lastBuildDate>{now_rfc}</lastBuildDate>\n"
+        + "\n".join(xml_items)
+        + "\n  </channel>\n</rss>\n"
+    )
+
+    with open(RSS_XML_PATH, "w", encoding="utf-8") as f:
+        f.write(rss_content)
+
+
 def save_feed(items: list) -> None:
     os.makedirs(os.path.dirname(FEED_JSON_PATH), exist_ok=True)
+    trimmed = items[:MAX_FEED_ITEMS]
     with open(FEED_JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(items[:MAX_FEED_ITEMS], f, ensure_ascii=False, indent=2)
+        json.dump(trimmed, f, ensure_ascii=False, indent=2)
+    save_rss(trimmed)
 
 
 def main() -> None:
@@ -299,11 +348,12 @@ def main() -> None:
         save_feed(merged)
         print(f"Added {len(new_items)} new items ({posted_count} sent to Telegram).")
     else:
-        print("No new high-signal items found.")
+        save_rss(existing_items)
+        print("No new high-signal items found (rss.xml synced).")
 
     conn.close()
 
 
 if __name__ == "__main__":
     main()
-         
+
