@@ -1,587 +1,1030 @@
-{
-  "updated_at": "2026-11-21T03:32:48.913317+00:00",
-  "items": [
-    {
-      "id": "9aa2702fedbd9163e14d384000b91078a9a316d89a73026fec757cb5057a632c",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Democratic Sen.-elect Colom responds to Trump’s praise",
-      "summary": "Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump’s recent praise of his midterm campaign strategy, saying his tactic of reaching out to Republicans during the election cycle shows how h…",
-      "link": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26316139782135-e1795231057957.jpg?w=900",
-      "published_at": "2026-11-21T03:09:44+00:00"
-    },
-    {
-      "id": "104011c16b72f5fe656bf2250d904a106158bb605011ca958e5b8ef57c8e774a",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
-      "summary": "The former mayor of Jackson, Miss., was sentenced to more than three years in federal prison after pleading guilty to bribery charges from his time in office. Former Mayor Chokwe Antar Lumumba (D) was indicted on charge…",
-      "link": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a4d27687f4e11.22721629-e1795225794941.jpeg?w=900",
-      "published_at": "2026-11-21T02:10:18+00:00"
-    },
-    {
-      "id": "2d29b185614044bc113a713cd316a0605a78bf89a5f8c9ac07697b3f89dad67a",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-      "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-46571930",
-      "published_at": "2026-11-21T03:20:00+00:00"
-    },
-    {
-      "id": "404a79f0ad0b99d80ede95f05da91909ae925596e9fb5f6e2cbc85b3322ff8a6",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "California man found guilty of sparking blaze that became deadly Palisades Fire",
-      "summary": "The Palisades Fire killed 12 people as it incinerated entire neighborhoods in Los Angeles and Malibu.",
-      "link": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324834836719-e1795224625909.jpg?w=900",
-      "published_at": "2026-11-21T01:30:51+00:00"
-    },
-    {
-      "id": "d32cc36b491ed78d415435a95f3035340b31b89df94e6b6e70d7154ef6c3e931",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Permitting reform bill clears major hurdle toward becoming law",
-      "summary": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Senate approves major permitting reform bill The Senate passed a major bill Thursday seeking to speed up the build-out of the nation’s en…",
-      "link": "https://thehill.com/newsletters/energy-environment/6234873-senate-baaja-permitting-reform-energy-infrastructure/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/whitehousesheldon_093026gn01_w.jpg?w=900",
-      "published_at": "2026-11-21T01:16:29+00:00"
-    },
-    {
-      "id": "29cc56f00672c0811f544b3350dc687da7a67a0cbbb97d4bb13816e948ab1cba",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
-      "summary": "Supreme Court Justice Sonia Sotomayor on Friday suggested her colleagues may view Democrats’ sweeping victories in the midterm elections as a sign that their recent immunity decision has not eliminated checks on the pre…",
-      "link": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2024/04/Sotomayor_041124_Photo_Getty.png?w=900",
-      "published_at": "2026-11-21T00:27:39+00:00"
-    },
-    {
-      "id": "5bd0973c0be12d8592ea98b5894146863b4a9a2a90f224cd412a5e101a653c11",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
-      "summary": "A judge Friday formally approved a proposed $7.25 billion agreement to settle current and future cancer claims related to exposure of Monsanto’s Roundup weed killer. The decision, by Missouri Judge Timothy Boyer, wraps…",
-      "link": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a50d205c4ee66.28920298-e1795219381677.jpeg?w=900",
-      "published_at": "2026-11-21T00:12:25+00:00"
-    },
-    {
-      "id": "79ea8cf52dac3bebd2389d65c0d0ff7da8aa9433e7b443c72c6c4577895a4159",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Casten, Lieu propose whistleblower program for prediction market insider trading",
-      "summary": "Reps. Sean Casten (D-Ill.) and Ted Lieu (D-Calif.) introduced new legislation Friday to regulate prediction markets and prevent insider trading, allowing whistleblowers to come forward and report wrongdoing. The Policin…",
-      "link": "https://thehill.com/homenews/house/6234775-casten-lieu-prediction-market-bill/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/MixCollage-20-Nov-2026-06-49-PM-7615.jpg?w=900",
-      "published_at": "2026-11-20T23:58:43+00:00"
-    },
-    {
-      "id": "19f6bef8c20477a176966ffde36b5b4f2eb5f0473cc6de94a4222a85f01d030d",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Exclusive: Shaheen, Coons call for ‘swift’ response to Russian incursions into allied airspace",
-      "summary": "Democratic Sens. Jeanne Shaheen (N.H.) and Chris Coons (Del.) condemned Russia for its recent reported incursions into the airspace of American allies, saying in a statement shared with The Hill on Friday the U.S. shoul…",
-      "link": "https://thehill.com/homenews/senate/6234605-shaheen-coons-condemn-russia-airspace-incursions/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/shaheenjeanne_060226gn04_w.jpg?w=900",
-      "published_at": "2026-11-20T22:37:39+00:00"
-    },
-    {
-      "id": "3df0b8bbdcd8d532fb00eb81718076a8ef2a74c4ee741df9e390fabcdcb6f2b9",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Senate GOP pushes through Trump judges in preholiday sprint",
-      "summary": "Senate Republican leaders convened a rare Friday session to vote on a slate of President Trump’s judicial nominees. Senate Majority Leader John Thune (R-S.D.) has said he wants to confirm as many judges, who will serve…",
-      "link": "https://thehill.com/homenews/senate/6234572-senate-confirms-trump-judges/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/thunejohn_092926gn03_w.jpg?w=900",
-      "published_at": "2026-11-20T22:17:22+00:00"
-    },
-    {
-      "id": "4620d2ea12cc10d138ed6ff4aecc714afebb3fc1ba2432705dcec6dffcf409c3",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "5 takeaways from Trump’s Friday news conference",
-      "summary": "President Trump sought to regain momentum Friday with a White House news conference that lasted almost 90 minutes. Trump’s ostensible purpose was to talk up the achievements from his recent trip to Asia, which included…",
-      "link": "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324677073184_236196-e1795200751413.jpg?w=900",
-      "published_at": "2026-11-20T22:14:58+00:00"
-    },
-    {
-      "id": "01c8260a41792b440777036d86d13e2127260060418b16a7536da74d4ca36ea2",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-22825043",
-      "published_at": "2026-11-20T22:46:00+00:00"
-    },
-    {
-      "id": "461afb426a4072f222ad03a5ec19f166e30a939373acbc48c245b326c89d216f",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-69966637",
-      "published_at": "2026-11-20T22:44:00+00:00"
-    },
-    {
-      "id": "997dbb12fc78545562b683a1d70d117eb540964fd76fc7bb5e644bea427e349d",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-      "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-51562776",
-      "published_at": "2026-11-20T22:44:00+00:00"
-    },
-    {
-      "id": "06eb8ef4b411d7bfe65774d9cec7bb553073fead02f16d60e436f814d8abcc3f",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-      "summary": "A looming oversupply problem could weigh on the stock over the next year",
-      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-62665344",
-      "published_at": "2026-11-20T21:39:00+00:00"
-    },
-    {
-      "id": "22b0810fda7c27753e61038f9b79bf45176151f6127f464956a974cc223d5481",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
-      "summary": "The White House tapped Pentagon chief information officer Kirsten Davies to serve as acting national cyber director Thursday just after firing Sean Cairncross from the role. Davies managed the Defense Department’s cyber…",
-      "link": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/88e2d5e5b82d4736915b64969f97d168-e1793032516161.jpg?w=900",
-      "published_at": "2026-11-20T20:12:15+00:00"
-    },
-    {
-      "id": "6370ac8130552522560eb201701c3d8b77207727597bcbf473dc9060eb6eaed2",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "DeSantis calls Supreme Court justices ‘potted plants’",
-      "summary": "Florida Gov. Ron DeSantis (R) shut down claims in an interview published Friday that he’s interested in a seat on the Supreme Court — an assertion coming as buzz surrounding his plans for 2028 mounts. DeSantis sat for a…",
-      "link": "https://thehill.com/homenews/state-watch/6234014-ron-desantis-supreme-court-denial/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69d405326b8e48.75365416-e1795205330477.jpeg?w=900",
-      "published_at": "2026-11-20T20:09:45+00:00"
-    },
-    {
-      "id": "5c11d92948b1106f8b5df954b16ec3a3462f92c0eb35c13e13400d6992624441",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Senate adopts resolution honoring Fiona the hippo",
-      "summary": "The U.S. Senate adopted a resolution Friday to honor Fiona the hippo, a beloved inhabitant of the Cincinnati Zoo who died Thursday. Fiona the hippo died days after she ingested a zoo-goer’s hat that accidentally ended u…",
-      "link": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324632540248-e1795204865545.jpg?w=900",
-      "published_at": "2026-11-20T20:08:14+00:00"
-    },
-    {
-      "id": "b20894850f486cf183f0129798b9143fe3ff16615f79077352057f88d29def56",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "House Democrats reiterate support for McIver after appeals court denies petition",
-      "summary": "House Democrats rallied behind Rep. LaMonica McIver (D-N.J.) on Friday, after a federal appeals court declined her petition for a full panel to consider dismissing charges tied to a scuffle outside of an immigration det…",
-      "link": "https://thehill.com/homenews/house/6234013-house-democrats-reup-support-lamonica-mciver/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2025/11/691b6c2b135fd0.27204830-e1795203404527.jpeg?w=900",
-      "published_at": "2026-11-20T19:54:56+00:00"
-    },
-    {
-      "id": "aa0d142e6f269f8ce29bad8f580a34c5d92ae62ffe2e156a10cfe5e72d43d8d7",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
-      "summary": "President Trump and UFC CEO Dana White will host a reception Friday honoring the United States Marine Band on the White House’s newly renovated helipad. The president and White are expected to announce a combined $200,0…",
-      "link": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26265144701453-e1795201949891.jpg?w=900",
-      "published_at": "2026-11-20T19:34:54+00:00"
-    },
-    {
-      "id": "ed1be9c93e8553e656845bf1eaf341e3620d1de7a65c747d897159e34dac9813",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Vance deflects on whether Iran war worth political price",
-      "summary": "Vice President Vance dodged the question on Friday of whether he thought the Iran war was worth Republicans losing big in the midterm elections earlier this month. “The president is the one who makes the decision, and t…",
-      "link": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324662046860-e1795199464605.jpg?w=900",
-      "published_at": "2026-11-20T19:32:18+00:00"
-    },
-    {
-      "id": "6395f16388a5d5aba2c8afb458bcfc6201a2b111982cb9b0f87f53dfed865105",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "New report highlights mental health struggles of NHL goalies",
-      "summary": "Former NHL goalie Corey Hirsch told NewsNation mental health is a very real concern among players.",
-      "link": "https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/68412cc84522e0.70028727-e1795202919223.jpeg?w=900",
-      "published_at": "2026-11-20T19:29:36+00:00"
-    },
-    {
-      "id": "e447f9e17d65520b91ae19dbc13632beed876bd1963640adcae266f785b2aa89",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports",
-      "summary": "President Trump left the door open to working with Democrats on issues such as healthcare, Hollywood and college sports regulations during his news conference on Friday. “I am open to great healthcare. Now, can it be wh…",
-      "link": "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324640971265-e1795197255195.jpg?w=900",
-      "published_at": "2026-11-20T19:26:49+00:00"
-    },
-    {
-      "id": "37cc32fc41148b01381e634ad9d655c0087e8d8261ee003478526f96d881f80f",
-      "category": "POLITICS",
-      "source": "Politico",
-      "title": "New Democratic governors race to deliver relief on costs",
-      "summary": "The newly elected state executives are plotting solutions on healthcare, housing and energy.",
-      "link": "https://www.politico.com/news/2026/11/20/dem-govs-huddle-to-address-living-costs-01178905",
-      "image": "https://static.politico.com/ed/c5/0647ecd5411f8e17950f8f7bb04c/fm2a9565.JPG",
-      "published_at": "2026-11-20T18:59:19+00:00"
-    },
-    {
-      "id": "66ae5788c717051c54d83d751c4978c255a13864ea3571d8d3c342ec72cd5c6d",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
-      "summary": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the “death cross” for small-cap stocks and advice from The Moneyist.",
-      "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-24427374",
-      "published_at": "2026-11-20T20:32:00+00:00"
-    },
-    {
-      "id": "42fed2291524f30849d1bbe3ce382b5667251df5c607e00889c1ff0052858487",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-29241577",
-      "published_at": "2026-11-20T20:30:00+00:00"
-    },
-    {
-      "id": "473830c1c2811852cf398332ae0833c6122899f554bae7a57ea0d0813104c3b6",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
-      "summary": "One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-34722118",
-      "published_at": "2026-11-20T20:08:00+00:00"
-    },
-    {
-      "id": "3bbef7bca3878af37d8db79f49f96b35ddd644154e06b830d5bfd6a5d1787c2a",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "The collapse of Trump’s blood diesel scheme is a victory for Ukraine",
-      "summary": "The war still hangs in the balance, but the failure of Trump and Putin to break the sanctions regime is a victory for Ukraine in its gallant fight for survival.",
-      "link": "https://thehill.com/opinion/international/6228379-russia-blockade-runners-us-sanctions/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26313600542955.jpg?w=900",
-      "published_at": "2026-11-20T12:30:00+00:00"
-    },
-    {
-      "id": "e6c17fb82ce19d4e52623d81c0d79f327ec901a27da5963f7ed3bbaa219ac752",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "What does screentime really mean, and what’s a parent to do about it?",
-      "summary": "Here’s my best advice from all the data I have seen.",
-      "link": "https://thehill.com/opinion/technology/6228523-parenting-child-screentime-advice/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2022/11/CA_screentime_11092022istock.jpg?w=900",
-      "published_at": "2026-11-20T12:00:00+00:00"
-    },
-    {
-      "id": "98504e69bd02f07b8504704b87dca2d5fe154663fc5c148d971bc13eb3459f33",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "The Memo: Embattled Trump seeks reset with White House news conference",
-      "summary": "President Trump will seek a reset of sorts when he holds a press conference at the White House at noon EST Friday. Trump will appear in front of the media after being weakened by the major beating the GOP took in the mi…",
-      "link": "https://thehill.com/homenews/analysis/6231674-trump-post-midterm-election-reset/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Memo-Trump-reset_112026_Stanage_AP_Mark-Schiefelbein.jpg?w=900",
-      "published_at": "2026-11-20T11:00:00+00:00"
-    },
-    {
-      "id": "a0d6333b9b569acf1273e4991b79e9bc478c27322bf426c3934308d9a18be0d6",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Rubio gains buzz while Vance’s fortunes falter in GOP race",
-      "summary": "Secretary of State Marco Rubio is up and Vice President Vance is down when it comes to talk about the GOP presidential race. Rubio is generating growing buzz among Republicans as a potential 2028 presidential contender…",
-      "link": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Rubio_Parnes-Mueller_AP_ManuelBalceCeneta.jpg?w=900",
-      "published_at": "2026-11-20T11:00:00+00:00"
-    },
-    {
-      "id": "01a9fccf738e8bcf99e5a83a140821f8e2e7bab636b87980a6952309fe44ef0f",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Gen Z helped Democrats win. Now it may want new leadership",
-      "summary": "Gen Z delivered a decisive win for Democrats in the 2026 midterm elections. Now they may want to see change in party leadership. Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing achallenge…",
-      "link": "https://thehill.com/homenews/senate/6231953-gen-z-democrats-schumer-van-hollen/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/The-Feed_112026_Illo_CJ-GN-Adobe.png?w=900",
-      "published_at": "2026-11-20T11:00:00+00:00"
-    },
-    {
-      "id": "a387363bfbf88ec1b0903c07ddc8a391607cafca2bb3fe2c1c8854446bffc782",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Raskin warns federal agencies against Signal use",
-      "summary": "Rep. Jamie Raskin (D-Md.), the top Democrat on the House Judiciary Committee, warned a host of federal agencies Thursday against using apps like Signal with auto-deleting messages, writing that it violates the law and c…",
-      "link": "https://thehill.com/homenews/house/6231917-raskin-warns-fbi-signal-usage/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/raskinjamie_063026gn01_w.jpg?w=900",
-      "published_at": "2026-11-20T09:45:00+00:00"
-    },
-    {
-      "id": "bcf4f6847e9df52f8c209455e32db442943b4d401e01889b1e548e796b85fc6a",
-      "category": "POLITICS",
-      "source": "Politico",
-      "title": "Democratic Governors’ 2028 picks",
-      "summary": "",
-      "link": "https://www.politico.com/video/2026/11/20/democratic-governors-2028-picks-2235294",
-      "image": "politics.jpg",
-      "published_at": "2026-11-20T10:45:00+00:00"
-    },
-    {
-      "id": "5eddcb448d32eaad0b113b86f47bedd5cea363adeec42dcc84ba4a683ebe9609",
-      "category": "POLITICS",
-      "source": "Politico",
-      "title": "The nation’s cartoonists on the week in politics",
-      "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics…",
-      "link": "https://www.politico.com/gallery/2026/11/20/the-nations-cartoonists-on-the-week-in-politics-01177665",
-      "image": "politics.jpg",
-      "published_at": "2026-11-20T10:00:00+00:00"
-    },
-    {
-      "id": "2c9789d322c4b37a906c9e150f3f9961eaa30ef55d7d25cfbeec47a99d955a5b",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
-      "summary": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
-      "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-78540306",
-      "published_at": "2026-11-20T12:45:00+00:00"
-    },
-    {
-      "id": "dfe2989837786e3e22194ad98f16a034972d114f58592cfc1e2e921b30487cfd",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
-      "summary": "The S&P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
-      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-43012277",
-      "published_at": "2026-11-20T12:43:00+00:00"
-    },
-    {
-      "id": "0820e839700801e64ba6d62d8aa833ea55abd00b713c771f289d07a8e1bbbc79",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-      "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-13717696",
-      "published_at": "2026-11-20T12:30:00+00:00"
-    },
-    {
-      "id": "ccfbd7c60fb73ae8d9fecf305828fbe3ea5b4ff2acf91d990218ac5e7fffda7d",
-      "category": "STOCKS",
-      "source": "MarketWatch",
-      "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
-      "summary": "Roaring Kitty’s return had minimal impact on GameStop’s stock, which has started to gain more sophisticated appeal for its “new and improved story.”",
-      "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
-      "image": "https://images.mktw.net/im-71591631",
-      "published_at": "2026-11-20T12:24:00+00:00"
-    },
-    {
-      "id": "c678ace1f7b9c3d6122f268f25856b8cc9c3a761b6a7cf3c94181e808ffb8e17",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Melania Trump marks world premiere of Prime Video docuseries",
-      "summary": "NEW YORK — Melania Trump is celebrating her docuseries debut, stepping out for a Hollywood-style premiere of “Melania: The Series.” The first lady traded the White House for the black — rather than red — carpet on Thurs…",
-      "link": "https://thehill.com/blogs/in-the-know/6232403-melania-trump-prime-video-series/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324091480575-e1795147788528.jpg?w=900",
-      "published_at": "2026-11-20T04:23:02+00:00"
-    },
-    {
-      "id": "02a3b5abb70fa24e7a3b21b7aecdda0df427de82fb1ecd8e03d14a860e0faeef",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Army postpones controlled lead detonation after pleas from Iowa lawmakers",
-      "summary": "Acting Army Secretary Adam Telle announced he would be postponing Friday’s detonations of lead azide barrels in Iowa amid heavy pushback from lawmakers who say they were given short notice about the planned explosions.…",
-      "link": "https://thehill.com/homenews/state-watch/6232362-army-postpones-iowa-detonations/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26246847667088-e1788482851235.jpg?w=900",
-      "published_at": "2026-11-20T03:57:32+00:00"
-    },
-    {
-      "id": "445d589ce7518b0a17f1a472f844c011417a8048e7a88fecc754011dbe87aab1",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Russell Brand’s crimes were an ‘open secret’: Why didn’t anyone stop him?",
-      "summary": "Why is the same industry that protected Brand and other men, like Harvey Weinstein, making projects about them?",
-      "link": "https://thehill.com/homenews/6231191-russell-brands-crimes-were-an-open-secret-why-didnt-anyone-stop-him/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Russell-Brand-Harvey-Weinstein-side-by-side.jpeg?w=900",
-      "published_at": "2026-11-20T03:52:55+00:00"
-    },
-    {
-      "id": "33a64285ac0125e6742ff0d153820c7cbc40f03822580d7842a840156b6075c3",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Family of Robb Elementary victim hope their experience inspires mass casualty preparedness at hospitals",
-      "summary": "Javier choked up as he spoke about the moment he and his family identified the body of their nine-year-old daughter, Jackie. She was one of the 19 students who was shot and killed by an 18-year-old gunman at Robb Elemen…",
-      "link": "https://thehill.com/homenews/6231787-family-of-robb-elementary-victim-hope-their-experience-inspires-mass-casualty-preparedness-at-hospitals/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/javier-and-gloria.jpg?w=900",
-      "published_at": "2026-11-20T03:42:35+00:00"
-    },
-    {
-      "id": "23f16ec3b38b2450b7c9e00d5eb8a89c8cdacb78c93ae680f19dbb8589e7ca91",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "DOJ looks to dismiss Alaska Senate lawsuit",
-      "summary": "The Department of Justice (DOJ) is looking to dismiss its lawsuit that was focused on blocking the certification of Alaska’s Senate race if Sen.-elect Mary Peltola (D) won, according to Thursday court filings. This case…",
-      "link": "https://thehill.com/regulation/court-battles/6232324-doj-seeks-alaska-senate-lawsuit-dismissal/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/08/doj_120425gn04_w.jpg?w=900",
-      "published_at": "2026-11-20T03:25:33+00:00"
-    },
-    {
-      "id": "9b698e0cbc91be365a0adbffd7426a9648aad3cdbae0830d0fe14737ba33cc58",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Senate approves key permitting reform bill, sends to House",
-      "summary": "The Senate on Thursday passed a major bill that seeks to speed up the buildout of the nation’s energy and infrastructure — taking a massive step toward the bill becoming law. The vote was passed by a vote of 62-33. Just…",
-      "link": "https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26273806278245_0ce3ce-e1795096867606.jpg?w=900",
-      "published_at": "2026-11-20T03:09:11+00:00"
-    },
-    {
-      "id": "7b6d2229abdbd11b4363388ecdb1026774982862142574e24f5223a5d47dc8d6",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Trump’s CISA nominee ducks questions on 2020 election results, Jan. 6 Capitol attack",
-      "summary": "Michael LoSapio, President Trump’s nominee to lead the Cybersecurity and Infrastructure Security Agency (CISA), on Thursday ducked questions from lawmakers about the Jan. 6, 2021, U.S. Capitol attack and who won the 202…",
-      "link": "https://thehill.com/homenews/administration/6231922-senate-holds-losapio-cisa-nomination/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26323606872736-e1795140863269.jpg?w=900",
-      "published_at": "2026-11-20T02:29:35+00:00"
-    },
-    {
-      "id": "616cc8e718cba87e75b49f078bbb0280482c5ed65a310083845d2b8332bf53d3",
-      "category": "POLITICS",
-      "source": "The Hill",
-      "title": "Fetterman says Van Hollen will lose majority leader race: ‘I’m not sure why that’s news’",
-      "summary": "Sen. John Fetterman (D-Pa.) said he was “not sure” why Sen. Chris Van Hollen (D-Md.) running for Senate majority leader was news. “I think he loses, and … I’m not sure why that’s news. You’ll have to see how that vote g…",
-      "link": "https://thehill.com/homenews/senate/6232158-fetterman-criticizes-van-hollen-senate/",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2023/05/fettermanjohn_schumerchuck_041823ag02_w.jpg?w=900",
-      "published_at": "2026-11-20T01:15:17+00:00"
-    },
-    {
-      "id": "f6ec612bdffb23ebf3704dcff620420a92b52d6e126df1c665984cf3ffcff316",
-      "category": "POLITICS",
-      "source": "Politico",
-      "title": "Chris Christie says MAGA has the ‘smell of politically rotting flesh’",
-      "summary": "",
-      "link": "https://www.politico.com/video/2026/11/20/chris-christie-says-maga-has-the-smell-of-politically-rotting-flesh-2234771",
-      "image": "politics.jpg",
-      "published_at": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "e6d12245dc7d40af34818a7508ae8203392e38ff8afd5673ef75ecc4ee4bf603",
-      "category": "POLITICS",
-      "source": "Politico",
-      "title": "Rob Sand shuts down any talk of 2028",
-      "summary": "The incoming Iowa governor said he's unlikely to ever consider running for president.",
-      "link": "https://www.politico.com/news/2026/11/19/rob-sand-iowa-2028-01177322",
-      "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/99a56b2d-a6d8-47fc-ae6f-689440c280cc/785937aa-fa5e-4a1b-af3c-525c4f4cb155/1280x720/match/image.jpg",
-      "published_at": "2026-11-19T23:54:25+00:00"
-    },
-    {
-      "id": "16ae342091416b8811117de384c7b50186205f7cb37575930c9c0c3fd3b22362",
-      "category": "POLITICS",
-      "source": "Politico",
-      "title": "Massachusetts gov says Dems want ‘a uniter and a fighter’ for 2028",
-      "summary": "Democrat Maura Healey just won her second term as governor.",
-      "link": "https://www.politico.com/news/2026/11/19/massachusetts-gov-maura-healey-2028-01177150",
-      "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/9d568ca0-6533-458e-a93b-8708bd94f862/74d53dc2-bb83-4a3a-877c-ffd686f3e001/1280x720/match/image.jpg",
-      "published_at": "2026-11-19T23:14:37+00:00"
-    },
-    {
-      "id": "e1d507c341f97fedaa402b2fac4f9f5042f2fdcde5eed5e40f8960fe3f9fa928",
-      "category": "POLITICS",
-      "source": "Politico",
-      "title": "Keisha Lance Bottoms says Democrats better spend big on the South",
-      "summary": "Georgia's new governor says Democrats shouldn't have to ‘beg and borrow’ to get resources for campaigns in the South.",
-      "link": "https://www.politico.com/news/2026/11/19/keisha-lance-bottoms-democrats-campaigns-south-01177147",
-      "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/713615fd-711c-4c4e-b7d3-3f79008e2f58/0a2cae8e-f752-454c-a35d-737faac970a0/1280x720/match/image.jpg",
-      "published_at": "2026-11-19T23:11:12+00:00"
-    },
-    {
-      "id": "9a18ca2366ae",
-      "category": "POLITICS",
-      "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-      "source": "NPR Topics: Politics",
-      "published_at": "2026-11-20T04:45:57.259044+00:00"
-    },
-    {
-      "id": "effe0ba29fb1",
-      "category": "POLITICS",
-      "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-      "source": "NPR Topics: Politics",
-      "published_at": "2026-11-20T04:45:59.765368+00:00"
-    },
-    {
-      "id": "666ba17e2953",
-      "category": "POLITICS",
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-      "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-      "source": "NPR Topics: Politics",
-      "published_at": "2026-11-20T04:46:02.290001+00:00"
-    },
-    {
-      "id": "8bb330a5cfc1",
-      "category": "POLITICS",
-      "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-      "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-      "source": "NPR Topics: Politics",
-      "published_at": "2026-11-20T04:46:04.806140+00:00"
-    },
-    {
-      "id": "13cc81829ab9",
-      "category": "MACRO",
-      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:08.228922+00:00"
-    },
-    {
-      "id": "f99faa579e1e",
-      "category": "MACRO",
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:10.728585+00:00"
-    },
-    {
-      "id": "f27651a0442d",
-      "category": "MACRO",
-      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:13.247312+00:00"
-    },
-    {
-      "id": "cd75ae977e1e",
-      "category": "MACRO",
-      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-      "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:15.855249+00:00"
-    },
-    {
-      "id": "54ecf629cb39",
-      "category": "MACRO",
-      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:18.696065+00:00"
-    }
-  ]
-}
+[
+  {
+    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+    "category": "STOCKS",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d7901aa6391850923b865dba6e93d85d7542d76-6000x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:51:50.314508+00:00"
+  },
+  {
+    "title": "JUST IN: Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ff9d25e2511cf90cd7a62c4980664ef0585d6c3-4096x2754.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:51:52.548210+00:00"
+  },
+  {
+    "title": "JUST IN: Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/13d74c4c3feaf7c1066344227101358a75134c19-1520x856.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:51:54.730932+00:00"
+  },
+  {
+    "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a8d4f09fa40a3ad93e79c6b4455bc55283d46a87-3528x1930.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:51:56.887972+00:00"
+  },
+  {
+    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+    "category": "POLITICS",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:51:59.042354+00:00"
+  },
+  {
+    "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/821262fb4f697ff07420d4aa3b5969e9eb886658-5424x3616.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:52:01.169792+00:00"
+  },
+  {
+    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:52:03.331147+00:00"
+  },
+  {
+    "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/82891e39741f8ee1cf03244dc64580d21202c017-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:52:05.523638+00:00"
+  },
+  {
+    "title": "Bitcoin drops for third straight day as Asian tech shares slide",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/700cd9d3046653dc5416b989eea0257568914257-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:52:07.662474+00:00"
+  },
+  {
+    "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:52:07.664651+00:00"
+  },
+  {
+    "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
+    "category": "STOCKS",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:52:07.665435+00:00"
+  },
+  {
+    "title": "JUST IN: Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d96e63b5f70a1bd124dd07acd7890e8b9447c306-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T03:52:07.666217+00:00"
+  },
+  {
+    "title": "JUST IN: Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
+    "published": "2026-11-21T03:52:07.775491+00:00"
+  },
+  {
+    "title": "JUST IN: Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
+    "published": "2026-11-21T03:52:07.776817+00:00"
+  },
+  {
+    "title": "JUST IN: Bitcoin falls below $60K for first time since July amid broader market selloff",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
+    "published": "2026-11-21T03:52:07.777794+00:00"
+  },
+  {
+    "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+    "category": "POLITICS",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
+    "published": "2026-11-21T03:52:07.778693+00:00"
+  },
+  {
+    "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
+    "published": "2026-11-21T03:52:07.779529+00:00"
+  },
+  {
+    "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
+    "published": "2026-11-21T03:52:07.783092+00:00"
+  },
+  {
+    "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png",
+    "published": "2026-11-21T03:52:07.783962+00:00"
+  },
+  {
+    "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp",
+    "published": "2026-11-21T03:52:07.784870+00:00"
+  },
+  {
+    "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png",
+    "published": "2026-11-21T03:52:07.785756+00:00"
+  },
+  {
+    "title": "JUST IN: SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
+    "published": "2026-11-21T03:52:07.786610+00:00"
+  },
+  {
+    "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+    "category": "STOCKS",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
+    "published": "2026-11-21T03:52:07.787387+00:00"
+  },
+  {
+    "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+    "published": "2026-11-21T03:52:07.788158+00:00"
+  },
+  {
+    "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-1-2026-12_51_51-PM_clean.png",
+    "published": "2026-11-21T03:52:07.893348+00:00"
+  },
+  {
+    "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-880121294.jpg",
+    "published": "2026-11-21T03:52:07.894144+00:00"
+  },
+  {
+    "title": "JUST IN: Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+    "published": "2026-11-21T03:52:07.894980+00:00"
+  },
+  {
+    "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303482998-scaled-e1795184982398.jpg",
+    "published": "2026-11-21T03:52:07.896041+00:00"
+  },
+  {
+    "title": "JUST IN: US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T143815.443.jpg",
+    "published": "2026-11-21T03:52:07.897516+00:00"
+  },
+  {
+    "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2305894191.jpg",
+    "published": "2026-11-21T03:52:07.898554+00:00"
+  },
+  {
+    "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
+    "category": "POLITICS",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Adam-Schiff.jpg",
+    "published": "2026-11-21T03:52:07.900938+00:00"
+  },
+  {
+    "title": "JUST IN: Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock",
+    "category": "STOCKS",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260410_MichaelSaylor_News_2.jpg",
+    "published": "2026-11-21T03:52:07.901754+00:00"
+  },
+  {
+    "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/selig-cftc-scaled.jpg",
+    "published": "2026-11-21T03:52:07.904247+00:00"
+  },
+  {
+    "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
+    "category": "STOCKS",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/20211022_Brian-Quintenz.jpg",
+    "published": "2026-11-21T03:52:07.905798+00:00"
+  },
+  {
+    "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+    "category": "STOCKS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg",
+    "published": "2026-11-21T03:52:08.015484+00:00"
+  },
+  {
+    "title": "JUST IN: Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+    "category": "STOCKS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+    "published": "2026-11-21T03:52:08.016810+00:00"
+  },
+  {
+    "title": "JUST IN: SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg",
+    "published": "2026-11-21T03:52:08.017813+00:00"
+  },
+  {
+    "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg",
+    "published": "2026-11-21T03:52:08.018683+00:00"
+  },
+  {
+    "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png",
+    "published": "2026-11-21T03:52:08.019532+00:00"
+  },
+  {
+    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+    "published": "2026-11-21T03:52:08.021414+00:00"
+  },
+  {
+    "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+    "category": "POLITICS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
+    "published": "2026-11-21T03:52:08.022226+00:00"
+  },
+  {
+    "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+    "category": "STOCKS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
+    "published": "2026-11-21T03:52:08.023145+00:00"
+  },
+  {
+    "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+    "published": "2026-11-21T03:52:08.024843+00:00"
+  },
+  {
+    "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg",
+    "published": "2026-11-21T03:52:08.027309+00:00"
+  },
+  {
+    "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+    "category": "STOCKS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
+    "published": "2026-11-21T03:52:08.028177+00:00"
+  },
+  {
+    "title": "Jobless claims fall to lowest level since mid-May",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+    "image": "",
+    "published": "2026-11-21T03:52:08.179873+00:00"
+  },
+  {
+    "title": "Jobless claims stay low in latest week",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+    "image": "",
+    "published": "2026-11-21T03:52:08.181126+00:00"
+  },
+  {
+    "title": "Trump asks Supreme Court to pause TikTok ban",
+    "category": "POLITICS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/trump-asks-supreme-court-to-pause-tiktok-ban-2b724ae6?mod=mw_rss_marketpulse",
+    "image": "",
+    "published": "2026-11-21T03:52:08.184373+00:00"
+  },
+  {
+    "title": "Amazon says it had best-ever Thanksgiving Holiday week with record sales and number of items sold",
+    "category": "CRYPTO",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/amazon-says-it-had-best-ever-thanksgiving-holiday-week-with-record-sales-and-number-of-items-sold-786e0143?mod=mw_rss_marketpulse",
+    "image": "",
+    "published": "2026-11-21T03:52:08.185292+00:00"
+  },
+  {
+    "title": "JUST IN: Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-69966637",
+    "published": "2026-11-21T03:52:08.276905+00:00"
+  },
+  {
+    "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-34722118",
+    "published": "2026-11-21T03:52:08.278521+00:00"
+  },
+  {
+    "title": "JUST IN: The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-62665344",
+    "published": "2026-11-21T03:52:08.280070+00:00"
+  },
+  {
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-18553565",
+    "published": "2026-11-21T03:52:08.280937+00:00"
+  },
+  {
+    "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-99445886",
+    "published": "2026-11-21T03:52:08.282886+00:00"
+  },
+  {
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.669790+00:00"
+  },
+  {
+    "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.672043+00:00"
+  },
+  {
+    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.673575+00:00"
+  },
+  {
+    "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.674354+00:00"
+  },
+  {
+    "title": "JUST IN: AI risks are the biggest threat to the financial system, Fed survey finds",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.675980+00:00"
+  },
+  {
+    "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+    "category": "STOCKS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.677601+00:00"
+  },
+  {
+    "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.680860+00:00"
+  },
+  {
+    "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+    "category": "STOCKS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.681679+00:00"
+  },
+  {
+    "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.682450+00:00"
+  },
+  {
+    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.683936+00:00"
+  },
+  {
+    "title": "JUST IN: China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.684674+00:00"
+  },
+  {
+    "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+    "category": "STOCKS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.964916+00:00"
+  },
+  {
+    "title": "JUST IN: Warsh wants Fed officials to talk less. Instead, they’re talking more",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.966964+00:00"
+  },
+  {
+    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+    "category": "CRYPTO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.968891+00:00"
+  },
+  {
+    "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+    "category": "POLITICS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.969701+00:00"
+  },
+  {
+    "title": "JUST IN: Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.970477+00:00"
+  },
+  {
+    "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "category": "POLITICS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.971259+00:00"
+  },
+  {
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.972874+00:00"
+  },
+  {
+    "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+    "category": "POLITICS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.973657+00:00"
+  },
+  {
+    "title": "Three things to watch as Trump, Xi and Putin meet in China",
+    "category": "POLITICS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.974403+00:00"
+  },
+  {
+    "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+    "category": "STOCKS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.975102+00:00"
+  },
+  {
+    "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+    "category": "STOCKS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.975758+00:00"
+  },
+  {
+    "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.976504+00:00"
+  },
+  {
+    "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "category": "STOCKS",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "image": "",
+    "published": "2026-11-21T03:52:08.977293+00:00"
+  },
+  {
+    "title": "JD Vance slams GOP governor’s call for immigration reform as ‘morally and electorally disastrous’",
+    "category": "POLITICS",
+    "source": "POLITICO.COM",
+    "link": "https://www.politico.com/news/2026/11/19/jd-vance-slams-republican-governor-immigration-01175617",
+    "image": "http://vod.politico.com/media/v1/pmp4/static/clear/1155968404/85530dd8-629e-440c-a757-805a3236f6db/dc5c3c2a-5fa7-4e84-8703-2af15732dc72/main.mp4",
+    "published": "2026-11-21T03:52:09.128468+00:00"
+  },
+  {
+    "title": "A week of White House static",
+    "category": "POLITICS",
+    "source": "POLITICO.COM",
+    "link": "https://www.politico.com/video/2026/11/19/a-week-of-white-house-static-2233252",
+    "image": "",
+    "published": "2026-11-21T03:52:09.131550+00:00"
+  },
+  {
+    "title": "JUST IN: YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+    "image": "",
+    "published": "2026-11-21T03:52:09.254985+00:00"
+  },
+  {
+    "title": "JUST IN: Rockstar says GTA VI made $3.79 billion in its first day",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+    "image": "",
+    "published": "2026-11-21T03:52:09.256188+00:00"
+  },
+  {
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "image": "",
+    "published": "2026-11-21T03:52:09.257925+00:00"
+  },
+  {
+    "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+    "image": "",
+    "published": "2026-11-21T03:52:09.259524+00:00"
+  },
+  {
+    "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+    "category": "STOCKS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+    "image": "",
+    "published": "2026-11-21T03:52:09.260506+00:00"
+  },
+  {
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "category": "CRYPTO",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "image": "",
+    "published": "2026-11-21T03:52:09.262487+00:00"
+  },
+  {
+    "id": "9aa2702fedbd9163e14d384000b91078a9a316d89a73026fec757cb5057a632c",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Democratic Sen.-elect Colom responds to Trump’s praise",
+    "summary": "Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump’s recent praise of his midterm campaign strategy, saying his tactic of reaching out to Republicans during the election cycle shows how h…",
+    "link": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26316139782135-e1795231057957.jpg?w=900",
+    "published_at": "2026-11-21T03:09:44+00:00"
+  },
+  {
+    "id": "104011c16b72f5fe656bf2250d904a106158bb605011ca958e5b8ef57c8e774a",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
+    "summary": "The former mayor of Jackson, Miss., was sentenced to more than three years in federal prison after pleading guilty to bribery charges from his time in office. Former Mayor Chokwe Antar Lumumba (D) was indicted on charge…",
+    "link": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a4d27687f4e11.22721629-e1795225794941.jpeg?w=900",
+    "published_at": "2026-11-21T02:10:18+00:00"
+  },
+  {
+    "id": "2d29b185614044bc113a713cd316a0605a78bf89a5f8c9ac07697b3f89dad67a",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+    "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+    "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-46571930",
+    "published_at": "2026-11-21T03:20:00+00:00"
+  },
+  {
+    "id": "404a79f0ad0b99d80ede95f05da91909ae925596e9fb5f6e2cbc85b3322ff8a6",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "California man found guilty of sparking blaze that became deadly Palisades Fire",
+    "summary": "The Palisades Fire killed 12 people as it incinerated entire neighborhoods in Los Angeles and Malibu.",
+    "link": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324834836719-e1795224625909.jpg?w=900",
+    "published_at": "2026-11-21T01:30:51+00:00"
+  },
+  {
+    "id": "d32cc36b491ed78d415435a95f3035340b31b89df94e6b6e70d7154ef6c3e931",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Permitting reform bill clears major hurdle toward becoming law",
+    "summary": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Senate approves major permitting reform bill The Senate passed a major bill Thursday seeking to speed up the build-out of the nation’s en…",
+    "link": "https://thehill.com/newsletters/energy-environment/6234873-senate-baaja-permitting-reform-energy-infrastructure/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/whitehousesheldon_093026gn01_w.jpg?w=900",
+    "published_at": "2026-11-21T01:16:29+00:00"
+  },
+  {
+    "id": "29cc56f00672c0811f544b3350dc687da7a67a0cbbb97d4bb13816e948ab1cba",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
+    "summary": "Supreme Court Justice Sonia Sotomayor on Friday suggested her colleagues may view Democrats’ sweeping victories in the midterm elections as a sign that their recent immunity decision has not eliminated checks on the pre…",
+    "link": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2024/04/Sotomayor_041124_Photo_Getty.png?w=900",
+    "published_at": "2026-11-21T00:27:39+00:00"
+  },
+  {
+    "id": "5bd0973c0be12d8592ea98b5894146863b4a9a2a90f224cd412a5e101a653c11",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
+    "summary": "A judge Friday formally approved a proposed $7.25 billion agreement to settle current and future cancer claims related to exposure of Monsanto’s Roundup weed killer. The decision, by Missouri Judge Timothy Boyer, wraps…",
+    "link": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a50d205c4ee66.28920298-e1795219381677.jpeg?w=900",
+    "published_at": "2026-11-21T00:12:25+00:00"
+  },
+  {
+    "id": "79ea8cf52dac3bebd2389d65c0d0ff7da8aa9433e7b443c72c6c4577895a4159",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Casten, Lieu propose whistleblower program for prediction market insider trading",
+    "summary": "Reps. Sean Casten (D-Ill.) and Ted Lieu (D-Calif.) introduced new legislation Friday to regulate prediction markets and prevent insider trading, allowing whistleblowers to come forward and report wrongdoing. The Policin…",
+    "link": "https://thehill.com/homenews/house/6234775-casten-lieu-prediction-market-bill/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/MixCollage-20-Nov-2026-06-49-PM-7615.jpg?w=900",
+    "published_at": "2026-11-20T23:58:43+00:00"
+  },
+  {
+    "id": "19f6bef8c20477a176966ffde36b5b4f2eb5f0473cc6de94a4222a85f01d030d",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Exclusive: Shaheen, Coons call for ‘swift’ response to Russian incursions into allied airspace",
+    "summary": "Democratic Sens. Jeanne Shaheen (N.H.) and Chris Coons (Del.) condemned Russia for its recent reported incursions into the airspace of American allies, saying in a statement shared with The Hill on Friday the U.S. shoul…",
+    "link": "https://thehill.com/homenews/senate/6234605-shaheen-coons-condemn-russia-airspace-incursions/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/shaheenjeanne_060226gn04_w.jpg?w=900",
+    "published_at": "2026-11-20T22:37:39+00:00"
+  },
+  {
+    "id": "3df0b8bbdcd8d532fb00eb81718076a8ef2a74c4ee741df9e390fabcdcb6f2b9",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Senate GOP pushes through Trump judges in preholiday sprint",
+    "summary": "Senate Republican leaders convened a rare Friday session to vote on a slate of President Trump’s judicial nominees. Senate Majority Leader John Thune (R-S.D.) has said he wants to confirm as many judges, who will serve…",
+    "link": "https://thehill.com/homenews/senate/6234572-senate-confirms-trump-judges/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/thunejohn_092926gn03_w.jpg?w=900",
+    "published_at": "2026-11-20T22:17:22+00:00"
+  },
+  {
+    "id": "4620d2ea12cc10d138ed6ff4aecc714afebb3fc1ba2432705dcec6dffcf409c3",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "5 takeaways from Trump’s Friday news conference",
+    "summary": "President Trump sought to regain momentum Friday with a White House news conference that lasted almost 90 minutes. Trump’s ostensible purpose was to talk up the achievements from his recent trip to Asia, which included…",
+    "link": "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324677073184_236196-e1795200751413.jpg?w=900",
+    "published_at": "2026-11-20T22:14:58+00:00"
+  },
+  {
+    "id": "01c8260a41792b440777036d86d13e2127260060418b16a7536da74d4ca36ea2",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+    "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+    "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-22825043",
+    "published_at": "2026-11-20T22:46:00+00:00"
+  },
+  {
+    "id": "461afb426a4072f222ad03a5ec19f166e30a939373acbc48c245b326c89d216f",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+    "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+    "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-69966637",
+    "published_at": "2026-11-20T22:44:00+00:00"
+  },
+  {
+    "id": "997dbb12fc78545562b683a1d70d117eb540964fd76fc7bb5e644bea427e349d",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+    "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+    "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-51562776",
+    "published_at": "2026-11-20T22:44:00+00:00"
+  },
+  {
+    "id": "06eb8ef4b411d7bfe65774d9cec7bb553073fead02f16d60e436f814d8abcc3f",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+    "summary": "A looming oversupply problem could weigh on the stock over the next year",
+    "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-62665344",
+    "published_at": "2026-11-20T21:39:00+00:00"
+  },
+  {
+    "id": "22b0810fda7c27753e61038f9b79bf45176151f6127f464956a974cc223d5481",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
+    "summary": "The White House tapped Pentagon chief information officer Kirsten Davies to serve as acting national cyber director Thursday just after firing Sean Cairncross from the role. Davies managed the Defense Department’s cyber…",
+    "link": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/88e2d5e5b82d4736915b64969f97d168-e1793032516161.jpg?w=900",
+    "published_at": "2026-11-20T20:12:15+00:00"
+  },
+  {
+    "id": "6370ac8130552522560eb201701c3d8b77207727597bcbf473dc9060eb6eaed2",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "DeSantis calls Supreme Court justices ‘potted plants’",
+    "summary": "Florida Gov. Ron DeSantis (R) shut down claims in an interview published Friday that he’s interested in a seat on the Supreme Court — an assertion coming as buzz surrounding his plans for 2028 mounts. DeSantis sat for a…",
+    "link": "https://thehill.com/homenews/state-watch/6234014-ron-desantis-supreme-court-denial/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69d405326b8e48.75365416-e1795205330477.jpeg?w=900",
+    "published_at": "2026-11-20T20:09:45+00:00"
+  },
+  {
+    "id": "5c11d92948b1106f8b5df954b16ec3a3462f92c0eb35c13e13400d6992624441",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Senate adopts resolution honoring Fiona the hippo",
+    "summary": "The U.S. Senate adopted a resolution Friday to honor Fiona the hippo, a beloved inhabitant of the Cincinnati Zoo who died Thursday. Fiona the hippo died days after she ingested a zoo-goer’s hat that accidentally ended u…",
+    "link": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324632540248-e1795204865545.jpg?w=900",
+    "published_at": "2026-11-20T20:08:14+00:00"
+  },
+  {
+    "id": "b20894850f486cf183f0129798b9143fe3ff16615f79077352057f88d29def56",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "House Democrats reiterate support for McIver after appeals court denies petition",
+    "summary": "House Democrats rallied behind Rep. LaMonica McIver (D-N.J.) on Friday, after a federal appeals court declined her petition for a full panel to consider dismissing charges tied to a scuffle outside of an immigration det…",
+    "link": "https://thehill.com/homenews/house/6234013-house-democrats-reup-support-lamonica-mciver/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2025/11/691b6c2b135fd0.27204830-e1795203404527.jpeg?w=900",
+    "published_at": "2026-11-20T19:54:56+00:00"
+  },
+  {
+    "id": "aa0d142e6f269f8ce29bad8f580a34c5d92ae62ffe2e156a10cfe5e72d43d8d7",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
+    "summary": "President Trump and UFC CEO Dana White will host a reception Friday honoring the United States Marine Band on the White House’s newly renovated helipad. The president and White are expected to announce a combined $200,0…",
+    "link": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26265144701453-e1795201949891.jpg?w=900",
+    "published_at": "2026-11-20T19:34:54+00:00"
+  },
+  {
+    "id": "ed1be9c93e8553e656845bf1eaf341e3620d1de7a65c747d897159e34dac9813",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Vance deflects on whether Iran war worth political price",
+    "summary": "Vice President Vance dodged the question on Friday of whether he thought the Iran war was worth Republicans losing big in the midterm elections earlier this month. “The president is the one who makes the decision, and t…",
+    "link": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324662046860-e1795199464605.jpg?w=900",
+    "published_at": "2026-11-20T19:32:18+00:00"
+  },
+  {
+    "id": "6395f16388a5d5aba2c8afb458bcfc6201a2b111982cb9b0f87f53dfed865105",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "New report highlights mental health struggles of NHL goalies",
+    "summary": "Former NHL goalie Corey Hirsch told NewsNation mental health is a very real concern among players.",
+    "link": "https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/68412cc84522e0.70028727-e1795202919223.jpeg?w=900",
+    "published_at": "2026-11-20T19:29:36+00:00"
+  },
+  {
+    "id": "e447f9e17d65520b91ae19dbc13632beed876bd1963640adcae266f785b2aa89",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports",
+    "summary": "President Trump left the door open to working with Democrats on issues such as healthcare, Hollywood and college sports regulations during his news conference on Friday. “I am open to great healthcare. Now, can it be wh…",
+    "link": "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324640971265-e1795197255195.jpg?w=900",
+    "published_at": "2026-11-20T19:26:49+00:00"
+  },
+  {
+    "id": "37cc32fc41148b01381e634ad9d655c0087e8d8261ee003478526f96d881f80f",
+    "category": "POLITICS",
+    "source": "Politico",
+    "title": "New Democratic governors race to deliver relief on costs",
+    "summary": "The newly elected state executives are plotting solutions on healthcare, housing and energy.",
+    "link": "https://www.politico.com/news/2026/11/20/dem-govs-huddle-to-address-living-costs-01178905",
+    "image": "https://static.politico.com/ed/c5/0647ecd5411f8e17950f8f7bb04c/fm2a9565.JPG",
+    "published_at": "2026-11-20T18:59:19+00:00"
+  },
+  {
+    "id": "66ae5788c717051c54d83d751c4978c255a13864ea3571d8d3c342ec72cd5c6d",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
+    "summary": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the “death cross” for small-cap stocks and advice from The Moneyist.",
+    "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-24427374",
+    "published_at": "2026-11-20T20:32:00+00:00"
+  },
+  {
+    "id": "42fed2291524f30849d1bbe3ce382b5667251df5c607e00889c1ff0052858487",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+    "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-29241577",
+    "published_at": "2026-11-20T20:30:00+00:00"
+  },
+  {
+    "id": "473830c1c2811852cf398332ae0833c6122899f554bae7a57ea0d0813104c3b6",
+    "category": "STOCKS",
+    "source": "MarketWatch",
+    "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+    "summary": "One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-34722118",
+    "published_at": "2026-11-20T20:08:00+00:00"
+  },
+  {
+    "id": "3bbef7bca3878af37d8db79f49f96b35ddd644154e06b830d5bfd6a5d1787c2a",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "The collapse of Trump’s blood diesel scheme is a victory for Ukraine",
+    "summary": "The war still hangs in the balance, but the failure of Trump and Putin to break the sanctions regime is a victory for Ukraine in its gallant fight for survival.",
+    "link": "https://thehill.com/opinion/international/6228379-russia-blockade-runners-us-sanctions/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26313600542955.jpg?w=900",
+    "published_at": "2026-11-20T12:30:00+00:00"
+  },
+  {
+    "id": "e6c17fb82ce19d4e52623d81c0d79f327ec901a27da5963f7ed3bbaa219ac752",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "What does screentime really mean, and what’s a parent to do about it?",
+    "summary": "Here’s my best advice from all the data I have seen.",
+    "link": "https://thehill.com/opinion/technology/6228523-parenting-child-screentime-advice/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2022/11/CA_screentime_11092022istock.jpg?w=900",
+    "published_at": "2026-11-20T12:00:00+00:00"
+  },
+  {
+    "id": "98504e69bd02f07b8504704b87dca2d5fe154663fc5c148d971bc13eb3459f33",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "The Memo: Embattled Trump seeks reset with White House news conference",
+    "summary": "President Trump will seek a reset of sorts when he holds a press conference at the White House at noon EST Friday. Trump will appear in front of the media after being weakened by the major beating the GOP took in the mi…",
+    "link": "https://thehill.com/homenews/analysis/6231674-trump-post-midterm-election-reset/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Memo-Trump-reset_112026_Stanage_AP_Mark-Schiefelbein.jpg?w=900",
+    "published_at": "2026-11-20T11:00:00+00:00"
+  },
+  {
+    "id": "a0d6333b9b569acf1273e4991b79e9bc478c27322bf426c3934308d9a18be0d6",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Rubio gains buzz while Vance’s fortunes falter in GOP race",
+    "summary": "Secretary of State Marco Rubio is up and Vice President Vance is down when it comes to talk about the GOP presidential race. Rubio is generating growing buzz among Republicans as a potential 2028 presidential contender…",
+    "link": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Rubio_Parnes-Mueller_AP_ManuelBalceCeneta.jpg?w=900",
+    "published_at": "2026-11-20T11:00:00+00:00"
+  },
+  {
+    "id": "01a9fccf738e8bcf99e5a83a140821f8e2e7bab636b87980a6952309fe44ef0f",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Gen Z helped Democrats win. Now it may want new leadership",
+    "summary": "Gen Z delivered a decisive win for Democrats in the 2026 midterm elections. Now they may want to see change in party leadership. Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing achallenge…",
+    "link": "https://thehill.com/homenews/senate/6231953-gen-z-democrats-schumer-van-hollen/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/The-Feed_112026_Illo_CJ-GN-Adobe.png?w=900",
+    "published_at": "2026-11-20T11:00:00+00:00"
+  },
+  {
+    "id": "a387363bfbf88ec1b0903c07ddc8a391607cafca2bb3fe2c1c8854446bffc782",
+    "category": "POLITICS",
+    "source": "The Hill",
+    "title": "Raskin warns federal agencies against Signal use",
+    "summary": "Rep. Jamie Raskin (D-Md.), the top Democrat on the House Judiciary Committee, warned a host of federal agencies Thursday against using apps like Signal with auto-deleting messages, writing that it violates the law and c…",
+    "link": "https://thehill.com/homenews/house/6231917-raskin-warns-fbi-signal-usage/",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/raskinjamie_063026gn01_w.jpg?w=900",
+    "published_at": "2026-11-20T09:45:00+00:00"
+  },
+  {
+    "id": "bcf4f6847e9df52f8c209455e32db442943b4d401e01889b1e548e796b85fc6a",
+    "category": "POLITICS",
+    "source": "Politico",
+    "title": "Democratic Governors’ 2028 picks",
+    "summary": "",
+    "link": "https://www.politico.com/video/2026/11/20/democratic-governors-2028-picks-2235294",
+    "image": "politics.jpg",
+    "published_at": "2026-11-20T10:45:00+00:00"
+  }
+]
