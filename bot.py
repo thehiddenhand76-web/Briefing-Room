@@ -1,4 +1,3 @@
-import hashlib
 import html
 import json
 import os
@@ -11,113 +10,77 @@ from urllib.parse import urlparse
 import feedparser
 import requests
 
-DB_PATH = os.getenv("SEEN_DB_PATH", "seen_items.db")
-FEED_OUTPUT_PATH = os.getenv("FEED_OUTPUT_PATH", "public/feed.json")
-MAX_ITEMS_IN_FEED = int(os.getenv("MAX_ITEMS_IN_FEED", "60"))
-MAX_NEW_PER_RUN = int(os.getenv("MAX_NEW_PER_RUN", "12"))
-
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
-CHANNEL_HANDLE = os.getenv("CHANNEL_HANDLE", "@thebriefingroom99").strip()
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "@thebriefingroom99").strip()
 
-CATEGORY_FALLBACKS = {
-    "POLITICS": "politics.jpg",
-    "MACRO": "macro.jpg",
-    "STOCKS": "stocks.jpg",
-    "CRYPTO": "crypto.jpg",
-}
+DB_PATH = "seen_items.db"
+FEED_JSON_PATH = "public/feed.json"
+MAX_FEED_ITEMS = 120
+MAX_POSTS_PER_RUN = 8
 
-RSS_SOURCES = [
-    ("POLITICS", "The Hill", "https://thehill.com/feed/"),
-    ("POLITICS", "Politico", "https://rss.politico.com/politics-news.xml"),
-    ("MACRO", "Reuters Business", "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best"),
-    ("MACRO", "CNBC Economy", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
-    ("STOCKS", "Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
-    ("STOCKS", "MarketWatch", "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
-    ("CRYPTO", "CoinDesk", "https://www.coindesk.com/arc/outboundfeeds/rss/"),
-    ("CRYPTO", "Cointelegraph", "https://cointelegraph.com/rss"),
+FEEDS = [
+    # CRYPTO
+    ("CRYPTO", "https://www.coindesk.com/arc/outboundfeeds/rss/"),
+    ("CRYPTO", "https://cointelegraph.com/rss"),
+    ("CRYPTO", "https://www.theblock.co/rss.xml"),
+    ("CRYPTO", "https://decrypt.co/feed"),
+    # STOCKS & MARKETS
+    ("STOCKS", "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"),
+    ("STOCKS", "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
+    ("STOCKS", "https://finance.yahoo.com/news/rssindex"),
+    # MACRO & ECONOMY
+    ("MACRO", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
+    ("MACRO", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"),
+    # POLITICS & TECH / AI
+    ("POLITICS", "https://rss.politico.com/politics-news.xml"),
+    ("POLITICS", "https://www.theverge.com/rss/index.xml"),
 ]
 
+BLOCKED_PHRASES = (
+    "should i ",
+    "retirement",
+    "annuity",
+    "mortgage rates",
+    "credit card",
+    "how to save",
+    "my husband",
+    "my wife",
+    "personal finance",
+    "opinion:",
+    "horoscope",
+    "wordle",
+    "sponsored",
+)
 
-def is_valid_http_url(url: str) -> bool:
-    if not url:
-        return False
-    parsed = urlparse(url.strip())
-    return parsed.scheme in ("http", "https") and bool(parsed.netloc)
+HIGH_SIGNAL_KEYWORDS = (
+    "just in", "breaking", "surges", "plunges", "crashes", "wiped out",
+    "selloff", "rally", "odds", "polymarket", "kalshi", "liquidat",
+    "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "xrp",
+    "fed", "powell", "fomc", "cpi", "inflation", "interest rate", "tariff",
+    "treasury", "recession", "gdp", "jobs report", "unemployment",
+    "sec", "etf", "blackrock", "goldman", "jpmorgan", "morgan stanley",
+    "nvidia", "nvda", "apple", "aapl", "tesla", "tsla", "microsoft", "msft",
+    "amazon", "amzn", "meta", "google", "alphabet", "openai", "anthropic",
+    "neuralink", "spacex", "ai", "ipo", "earnings", "billion", "trillion",
+    "white house", "congress", "senate", "trump", "sanctions", "oil", "gold"
+)
 
-
-def looks_like_image_url(url: str, mime_type: str = "") -> bool:
-    if not is_valid_http_url(url):
-        return False
-    mime = (mime_type or "").lower()
-    if mime.startswith("image/"):
-        return True
-    path = urlparse(url).path.lower()
-    return path.endswith((".jpg", ".jpeg", ".png", ".webp", ".gif"))
-
-
-def extract_entry_image(entry, category: str) -> str:
-    cat = (category or "MACRO").upper()
-    fallback = CATEGORY_FALLBACKS.get(cat, "macro.jpg")
-
-    for media in entry.get("media_content", []) or []:
-        url = (media.get("url") or "").strip()
-        mime = (media.get("type") or "").strip()
-        if is_valid_http_url(url) and (not mime or mime.startswith("image/") or looks_like_image_url(url, mime)):
-            return url
-
-    for thumb in entry.get("media_thumbnail", []) or []:
-        url = (thumb.get("url") or "").strip()
-        if is_valid_http_url(url):
-            return url
-
-    for enc in entry.get("enclosures", []) or []:
-        url = (enc.get("href") or enc.get("url") or "").strip()
-        mime = (enc.get("type") or "").strip()
-        if looks_like_image_url(url, mime):
-            return url
-
-    return fallback
+URGENT_TRIGGERS = (
+    "plunges", "crashes", "wiped out", "surges", "selloff",
+    "warns", "odds", "sec ", "fed ", "tariff", "billion",
+    "trillion", "liquidat", "emergency", "approved", "rejects"
+)
 
 
-def clean_text(raw: str, limit: int = 240) -> str:
-    text = re.sub(r"<[^>]+>", " ", raw or "")
-    text = html.unescape(text)
-    text = re.sub(r"\s+", " ", text).strip()
-    if len(text) > limit:
-        return text[: limit - 1].rstrip() + "…"
-    return text
-
-
-def entry_uid(category: str, source: str, link: str, title: str) -> str:
-    seed = f"{category}|{source}|{(link or title).strip()}"
-    return hashlib.sha256(seed.encode("utf-8")).hexdigest()
-
-
-def parse_published_iso(entry) -> str:
-    struct = entry.get("published_parsed") or entry.get("updated_parsed")
-    if struct:
-        try:
-            dt = datetime(*struct[:6], tzinfo=timezone.utc)
-            return dt.isoformat()
-        except Exception:
-            pass
-    return datetime.now(timezone.utc).isoformat()
-
-
-def init_db(db_path: str) -> sqlite3.Connection:
-    conn = sqlite3.connect(db_path)
+def init_db() -> sqlite3.Connection:
+    conn = sqlite3.connect(DB_PATH)
     conn.execute(
         """
-        CREATE TABLE IF NOT EXISTS seen_items (
-            uid TEXT PRIMARY KEY,
-            category TEXT NOT NULL,
-            source TEXT NOT NULL,
-            title TEXT NOT NULL,
-            link TEXT NOT NULL,
-            image TEXT NOT NULL,
-            published_at TEXT NOT NULL,
-            created_at TEXT NOT NULL
+        CREATE TABLE IF NOT EXISTS seen (
+            link TEXT PRIMARY KEY,
+            title TEXT,
+            category TEXT,
+            created_at TEXT
         )
         """
     )
@@ -125,161 +88,209 @@ def init_db(db_path: str) -> sqlite3.Connection:
     return conn
 
 
-def is_seen(conn: sqlite3.Connection, uid: str) -> bool:
-    cur = conn.execute("SELECT 1 FROM seen_items WHERE uid = ? LIMIT 1", (uid,))
+def is_seen(conn: sqlite3.Connection, link: str) -> bool:
+    cur = conn.execute("SELECT 1 FROM seen WHERE link = ?", (link,))
     return cur.fetchone() is not None
 
 
-def mark_seen(conn: sqlite3.Connection, item: dict) -> None:
+def mark_seen(conn: sqlite3.Connection, link: str, title: str, category: str) -> None:
     conn.execute(
-        """
-        INSERT OR IGNORE INTO seen_items (uid, category, source, title, link, image, published_at, created_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        """,
-        (
-            item["id"],
-            item["category"],
-            item["source"],
-            item["title"],
-            item["link"],
-            item["image"],
-            item["published_at"],
-            datetime.now(timezone.utc).isoformat(),
-        ),
+        "INSERT OR IGNORE INTO seen (link, title, category, created_at) VALUES (?, ?, ?, ?)",
+        (link, title, category, datetime.now(timezone.utc).isoformat()),
     )
     conn.commit()
 
 
-def send_telegram_alert(item: dict) -> bool:
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        print("Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID; skipping Telegram post.")
+def clean_text(raw: str) -> str:
+    text = html.unescape(raw or "")
+    text = re.sub(r"<[^>]+>", " ", text)
+    return " ".join(text.split()).strip()
+
+
+def is_high_signal(title: str) -> bool:
+    t = title.lower()
+    if any(bad in t for bad in BLOCKED_PHRASES):
         return False
+    return any(good in t for good in HIGH_SIGNAL_KEYWORDS)
 
-    handle = CHANNEL_HANDLE if CHANNEL_HANDLE.startswith("@") else f"@{CHANNEL_HANDLE}"
-    title_esc = html.escape(item["title"])
-    source_esc = html.escape(item["source"])
-    cat_esc = html.escape(item["category"])
-    summary_esc = html.escape(item["summary"]) if item.get("summary") else ""
 
-    lines = [
-        f"<b>[{cat_esc}]</b> {title_esc}",
-        f"<i>Source:</i> {source_esc}",
-    ]
-    if summary_esc:
-        lines.append(summary_esc)
-    if is_valid_http_url(item["link"]):
-        lines.append(f'<a href="{html.escape(item["link"])}">Read dispatch</a>')
-    if handle and handle != "@":
-        lines.append(html.escape(handle))
+def detect_category(title: str, default_cat: str) -> str:
+    t = title.lower()
+    if any(k in t for k in ("bitcoin", "btc", "ethereum", "eth", "solana", "sol", "xrp", "crypto", "polymarket", "stablecoin", "defi")):
+        return "CRYPTO"
+    if any(k in t for k in ("fed", "powell", "cpi", "inflation", "gdp", "treasury", "recession", "unemployment", "yield", "oil", "gold")):
+        return "MACRO"
+    if any(k in t for k in ("white house", "senate", "congress", "trump", "election", "tariff", "sanctions", "pentagon")):
+        return "POLITICS"
+    if any(k in t for k in ("stock", "nasdaq", "s&p", "dow", "nvda", "nvidia", "aapl", "apple", "tsla", "tesla", "ipo", "earnings", "goldman", "jpmorgan")):
+        return "STOCKS"
+    return default_cat
 
-    message = "\n".join(lines)[:4090]
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": message,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False,
-    }
 
+def format_headline(title: str) -> str:
+    clean = clean_text(title)
+    if not clean.upper().startswith(("JUST IN:", "BREAKING:")):
+        if any(w in clean.lower() for w in URGENT_TRIGGERS):
+            clean = f"JUST IN: {clean}"
+    return clean
+
+
+def extract_image(entry) -> str:
+    media_content = entry.get("media_content") or []
+    for m in media_content:
+        url = (m.get("url") or "").strip()
+        if url.startswith("http"):
+            return url
+
+    media_thumb = entry.get("media_thumbnail") or []
+    for m in media_thumb:
+        url = (m.get("url") or "").strip()
+        if url.startswith("http"):
+            return url
+
+    for enc in entry.get("enclosures") or []:
+        url = (enc.get("href") or enc.get("url") or "").strip()
+        if url.startswith("http") and any(ext in url.lower() for ext in (".jpg", ".jpeg", ".png", ".webp")):
+            return url
+
+    summary_html = entry.get("summary") or entry.get("description") or ""
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary_html, re.IGNORECASE)
+    if match and match.group(1).startswith("http"):
+        return match.group(1).strip()
+
+    return ""
+
+
+def extract_source(link: str) -> str:
     try:
-        resp = requests.post(url, json=payload, timeout=15)
-        data = resp.json()
-        if resp.status_code == 200 and data.get("ok"):
-            return True
-        print(f"Telegram API error ({resp.status_code}): {data}")
-        return False
-    except Exception as exc:
-        print(f"Telegram request failed: {exc}")
-        return False
+        host = urlparse(link).netloc.lower()
+        return host.removeprefix("www.").upper() or "BRIEFING"
+    except Exception:
+        return "BRIEFING"
 
 
-def load_existing_feed(path: str) -> list:
-    if not os.path.exists(path):
+def send_telegram(headline: str, category: str, link: str, image_url: str) -> None:
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        return
+
+    escaped_title = html.escape(headline)
+    escaped_cat = html.escape(category)
+    escaped_link = html.escape(link)
+
+    caption = (
+        f"<b>{escaped_title}</b>\n\n"
+        f"#{escaped_cat} • <a href=\"{escaped_link}\">Source</a>\n"
+        f"@thebriefingroom99"
+    )
+
+    if image_url:
+        photo_resp = requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto",
+            data={
+                "chat_id": TELEGRAM_CHAT_ID,
+                "photo": image_url,
+                "caption": caption,
+                "parse_mode": "HTML",
+            },
+            timeout=15,
+        )
+        if photo_resp.ok:
+            return
+
+    requests.post(
+        f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+        data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": caption,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False,
+        },
+        timeout=15,
+    )
+
+
+def load_existing_feed() -> list:
+    if not os.path.exists(FEED_JSON_PATH):
         return []
     try:
-        with open(path, "r", encoding="utf-8") as f:
+        with open(FEED_JSON_PATH, "r", encoding="utf-8") as f:
             data = json.load(f)
-        if isinstance(data, list):
-            return data
-        if isinstance(data, dict) and isinstance(data.get("items"), list):
-            return data["items"]
-    except Exception as exc:
-        print(f"Could not read existing {path}: {exc}")
-    return []
+            return data if isinstance(data, list) else data.get("items", [])
+    except Exception:
+        return []
 
 
-def write_feed_json(path: str, items: list) -> None:
-    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
-    payload = {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "items": items[:MAX_ITEMS_IN_FEED],
-    }
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
+def save_feed(items: list) -> None:
+    os.makedirs(os.path.dirname(FEED_JSON_PATH), exist_ok=True)
+    with open(FEED_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(items[:MAX_FEED_ITEMS], f, ensure_ascii=False, indent=2)
 
 
-def run() -> None:
-    conn = init_db(DB_PATH)
-    existing_items = load_existing_feed(FEED_OUTPUT_PATH)
-    existing_by_id = {it.get("id"): it for it in existing_items if isinstance(it, dict) and it.get("id")}
+def main() -> None:
+    conn = init_db()
+    existing_items = load_existing_feed()
+    new_items = []
+    posted_count = 0
 
-    newly_collected = []
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; TheBriefingRoomBot/1.0)"}
 
-    for category, source, feed_url in RSS_SOURCES:
+    for default_cat, feed_url in FEEDS:
         try:
-            resp = requests.get(
-                feed_url,
-                timeout=15,
-                headers={"User-Agent": "Mozilla/5.0 (compatible; BriefingRoomBot/1.0)"},
-            )
-            resp.raise_for_status()
+            resp = requests.get(feed_url, headers=headers, timeout=15)
             parsed = feedparser.parse(resp.content)
         except Exception as exc:
-            print(f"Feed fetch failed for {source} ({feed_url}): {exc}")
+            print(f"Feed error ({feed_url}): {exc}")
             continue
 
-        for entry in (parsed.entries or [])[:8]:
-            title = clean_text(entry.get("title", ""), limit=220)
+        for entry in parsed.entries[:15]:
             link = (entry.get("link") or "").strip()
-            if not title or not is_valid_http_url(link):
+            raw_title = clean_text(entry.get("title") or "")
+            if not link or not raw_title:
                 continue
 
-            uid = entry_uid(category, source, link, title)
-            if is_seen(conn, uid):
+            if is_seen(conn, link):
                 continue
 
-            summary = clean_text(entry.get("summary") or entry.get("description") or "", limit=220)
-            image_url = extract_entry_image(entry, category)
-            published_at = parse_published_iso(entry)
+            if not is_high_signal(raw_title):
+                mark_seen(conn, link, raw_title, default_cat)
+                continue
+
+            category = detect_category(raw_title, default_cat)
+            headline = format_headline(raw_title)
+            image_url = extract_image(entry)
+            source = extract_source(link)
+            published_iso = datetime.now(timezone.utc).isoformat()
+
+            mark_seen(conn, link, headline, category)
 
             item = {
-                "id": uid,
-                "category": category.upper(),
+                "title": headline,
+                "category": category,
                 "source": source,
-                "title": title,
-                "summary": summary,
                 "link": link,
                 "image": image_url,
-                "published_at": published_at,
+                "published": published_iso,
             }
+            new_items.append(item)
 
-            if len(newly_collected) < MAX_NEW_PER_RUN:
-                posted = send_telegram_alert(item)
-                mark_seen(conn, item)
-                if posted:
-                    newly_collected.append(item)
-                    time.sleep(0.4)
-            else:
-                mark_seen(conn, item)
+            if posted_count < MAX_POSTS_PER_RUN:
+                try:
+                    send_telegram(headline, category, link, image_url)
+                    posted_count += 1
+                    time.sleep(1.5)
+                except Exception as exc:
+                    print(f"Telegram send error: {exc}")
 
-    merged = newly_collected + [
-        it for it in existing_items if isinstance(it, dict) and it.get("id") not in {n["id"] for n in newly_collected}
-    ]
-    write_feed_json(FEED_OUTPUT_PATH, merged)
+    if new_items:
+        merged = new_items + existing_items
+        save_feed(merged)
+        print(f"Added {len(new_items)} new items ({posted_count} sent to Telegram).")
+    else:
+        print("No new high-signal items found.")
+
     conn.close()
-    print(f"Done. New dispatches posted: {len(newly_collected)}, Total in feed: {min(len(merged), MAX_ITEMS_IN_FEED)}")
 
 
 if __name__ == "__main__":
-    run()
-               
+    main()
+    
