@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-20T20:49:07.735632+00:00",
+  "updated_at": "2026-11-21T01:50:32.134157+00:00",
   "items": [
+    {
+      "id": "404a79f0ad0b99d80ede95f05da91909ae925596e9fb5f6e2cbc85b3322ff8a6",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "California man found guilty of sparking blaze that became deadly Palisades Fire",
+      "summary": "The Palisades Fire killed 12 people as it incinerated entire neighborhoods in Los Angeles and Malibu.",
+      "link": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324834836719-e1795224625909.jpg?w=900",
+      "published_at": "2026-11-21T01:30:51+00:00"
+    },
+    {
+      "id": "d32cc36b491ed78d415435a95f3035340b31b89df94e6b6e70d7154ef6c3e931",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Permitting reform bill clears major hurdle toward becoming law",
+      "summary": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Senate approves major permitting reform bill The Senate passed a major bill Thursday seeking to speed up the build-out of the nation’s en…",
+      "link": "https://thehill.com/newsletters/energy-environment/6234873-senate-baaja-permitting-reform-energy-infrastructure/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/whitehousesheldon_093026gn01_w.jpg?w=900",
+      "published_at": "2026-11-21T01:16:29+00:00"
+    },
+    {
+      "id": "29cc56f00672c0811f544b3350dc687da7a67a0cbbb97d4bb13816e948ab1cba",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
+      "summary": "Supreme Court Justice Sonia Sotomayor on Friday suggested her colleagues may view Democrats’ sweeping victories in the midterm elections as a sign that their recent immunity decision has not eliminated checks on the pre…",
+      "link": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2024/04/Sotomayor_041124_Photo_Getty.png?w=900",
+      "published_at": "2026-11-21T00:27:39+00:00"
+    },
+    {
+      "id": "5bd0973c0be12d8592ea98b5894146863b4a9a2a90f224cd412a5e101a653c11",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
+      "summary": "A judge Friday formally approved a proposed $7.25 billion agreement to settle current and future cancer claims related to exposure of Monsanto’s Roundup weed killer. The decision, by Missouri Judge Timothy Boyer, wraps…",
+      "link": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a50d205c4ee66.28920298-e1795219381677.jpeg?w=900",
+      "published_at": "2026-11-21T00:12:25+00:00"
+    },
+    {
+      "id": "79ea8cf52dac3bebd2389d65c0d0ff7da8aa9433e7b443c72c6c4577895a4159",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Casten, Lieu propose whistleblower program for prediction market insider trading",
+      "summary": "Reps. Sean Casten (D-Ill.) and Ted Lieu (D-Calif.) introduced new legislation Friday to regulate prediction markets and prevent insider trading, allowing whistleblowers to come forward and report wrongdoing. The Policin…",
+      "link": "https://thehill.com/homenews/house/6234775-casten-lieu-prediction-market-bill/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/MixCollage-20-Nov-2026-06-49-PM-7615.jpg?w=900",
+      "published_at": "2026-11-20T23:58:43+00:00"
+    },
+    {
+      "id": "19f6bef8c20477a176966ffde36b5b4f2eb5f0473cc6de94a4222a85f01d030d",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Exclusive: Shaheen, Coons call for ‘swift’ response to Russian incursions into allied airspace",
+      "summary": "Democratic Sens. Jeanne Shaheen (N.H.) and Chris Coons (Del.) condemned Russia for its recent reported incursions into the airspace of American allies, saying in a statement shared with The Hill on Friday the U.S. shoul…",
+      "link": "https://thehill.com/homenews/senate/6234605-shaheen-coons-condemn-russia-airspace-incursions/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/shaheenjeanne_060226gn04_w.jpg?w=900",
+      "published_at": "2026-11-20T22:37:39+00:00"
+    },
+    {
+      "id": "3df0b8bbdcd8d532fb00eb81718076a8ef2a74c4ee741df9e390fabcdcb6f2b9",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "Senate GOP pushes through Trump judges in preholiday sprint",
+      "summary": "Senate Republican leaders convened a rare Friday session to vote on a slate of President Trump’s judicial nominees. Senate Majority Leader John Thune (R-S.D.) has said he wants to confirm as many judges, who will serve…",
+      "link": "https://thehill.com/homenews/senate/6234572-senate-confirms-trump-judges/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/thunejohn_092926gn03_w.jpg?w=900",
+      "published_at": "2026-11-20T22:17:22+00:00"
+    },
+    {
+      "id": "4620d2ea12cc10d138ed6ff4aecc714afebb3fc1ba2432705dcec6dffcf409c3",
+      "category": "POLITICS",
+      "source": "The Hill",
+      "title": "5 takeaways from Trump’s Friday news conference",
+      "summary": "President Trump sought to regain momentum Friday with a White House news conference that lasted almost 90 minutes. Trump’s ostensible purpose was to talk up the achievements from his recent trip to Asia, which included…",
+      "link": "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324677073184_236196-e1795200751413.jpg?w=900",
+      "published_at": "2026-11-20T22:14:58+00:00"
+    },
+    {
+      "id": "01c8260a41792b440777036d86d13e2127260060418b16a7536da74d4ca36ea2",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+      "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-22825043",
+      "published_at": "2026-11-20T22:46:00+00:00"
+    },
+    {
+      "id": "461afb426a4072f222ad03a5ec19f166e30a939373acbc48c245b326c89d216f",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-69966637",
+      "published_at": "2026-11-20T22:44:00+00:00"
+    },
+    {
+      "id": "997dbb12fc78545562b683a1d70d117eb540964fd76fc7bb5e644bea427e349d",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+      "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-51562776",
+      "published_at": "2026-11-20T22:44:00+00:00"
+    },
+    {
+      "id": "06eb8ef4b411d7bfe65774d9cec7bb553073fead02f16d60e436f814d8abcc3f",
+      "category": "STOCKS",
+      "source": "MarketWatch",
+      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+      "summary": "A looming oversupply problem could weigh on the stock over the next year",
+      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+      "image": "https://images.mktw.net/im-62665344",
+      "published_at": "2026-11-20T21:39:00+00:00"
+    },
     {
       "id": "22b0810fda7c27753e61038f9b79bf45176151f6127f464956a974cc223d5481",
       "category": "POLITICS",
@@ -456,86 +576,6 @@
       "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
       "source": "MarketWatch.com",
       "published_at": "2026-11-20T04:46:26.324639+00:00"
-    },
-    {
-      "id": "288d46dad884",
-      "category": "STOCKS",
-      "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
-      "link": "https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse",
-      "source": "MarketWatch.com",
-      "published_at": "2026-11-20T04:46:33.766746+00:00"
-    },
-    {
-      "id": "00365391608b",
-      "category": "CRYPTO",
-      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:37.192308+00:00"
-    },
-    {
-      "id": "63dd732d8c16",
-      "category": "CRYPTO",
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:40.174825+00:00"
-    },
-    {
-      "id": "042c18ea4f55",
-      "category": "CRYPTO",
-      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-      "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:42.696912+00:00"
-    },
-    {
-      "id": "9ee038a804b0",
-      "category": "CRYPTO",
-      "title": "Anthropic gains after IPO, but pulls off highest levels",
-      "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:45.181411+00:00"
-    },
-    {
-      "id": "2104f6c37af7",
-      "category": "CRYPTO",
-      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:47.667741+00:00"
-    },
-    {
-      "id": "82d8bc128ccb",
-      "category": "CRYPTO",
-      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-      "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:50.165300+00:00"
-    },
-    {
-      "id": "f5e1b3b6ba75",
-      "category": "CRYPTO",
-      "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
-      "link": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:52.997385+00:00"
-    },
-    {
-      "id": "15ca52071ceb",
-      "category": "CRYPTO",
-      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-      "link": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:46:58.620218+00:00"
-    },
-    {
-      "id": "a9460e9765a0",
-      "category": "CRYPTO",
-      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "published_at": "2026-11-20T04:47:01.804282+00:00"
     }
   ]
 }
