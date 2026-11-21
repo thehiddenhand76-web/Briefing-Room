@@ -1,5 +1,29 @@
 [
   {
+    "title": "JUST IN: XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e801fab0ba43b1fac7d53b2dde06f85232d5e766-1506x830.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T06:12:29.899540+00:00"
+  },
+  {
+    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-21T06:12:31.978989+00:00"
+  },
+  {
+    "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
+    "published": "2026-11-21T06:12:34.296973+00:00"
+  },
+  {
     "title": "Kalshi races to get ahead of New York order that could shut down exchange",
     "category": "STOCKS",
     "source": "COINDESK.COM",
@@ -996,35 +1020,5 @@
     "link": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/",
     "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Rubio_Parnes-Mueller_AP_ManuelBalceCeneta.jpg?w=900",
     "published_at": "2026-11-20T11:00:00+00:00"
-  },
-  {
-    "id": "01a9fccf738e8bcf99e5a83a140821f8e2e7bab636b87980a6952309fe44ef0f",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Gen Z helped Democrats win. Now it may want new leadership",
-    "summary": "Gen Z delivered a decisive win for Democrats in the 2026 midterm elections. Now they may want to see change in party leadership. Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing achallenge…",
-    "link": "https://thehill.com/homenews/senate/6231953-gen-z-democrats-schumer-van-hollen/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/The-Feed_112026_Illo_CJ-GN-Adobe.png?w=900",
-    "published_at": "2026-11-20T11:00:00+00:00"
-  },
-  {
-    "id": "a387363bfbf88ec1b0903c07ddc8a391607cafca2bb3fe2c1c8854446bffc782",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Raskin warns federal agencies against Signal use",
-    "summary": "Rep. Jamie Raskin (D-Md.), the top Democrat on the House Judiciary Committee, warned a host of federal agencies Thursday against using apps like Signal with auto-deleting messages, writing that it violates the law and c…",
-    "link": "https://thehill.com/homenews/house/6231917-raskin-warns-fbi-signal-usage/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/raskinjamie_063026gn01_w.jpg?w=900",
-    "published_at": "2026-11-20T09:45:00+00:00"
-  },
-  {
-    "id": "bcf4f6847e9df52f8c209455e32db442943b4d401e01889b1e548e796b85fc6a",
-    "category": "POLITICS",
-    "source": "Politico",
-    "title": "Democratic Governors’ 2028 picks",
-    "summary": "",
-    "link": "https://www.politico.com/video/2026/11/20/democratic-governors-2028-picks-2235294",
-    "image": "politics.jpg",
-    "published_at": "2026-11-20T10:45:00+00:00"
   }
 ]
