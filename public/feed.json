@@ -1,5 +1,13 @@
 [
   {
+    "title": "Your questions about Apple HomeView’s audio, answered",
+    "category": "STOCKS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+    "image": "",
+    "published": "2026-11-22T14:00:21.012758+00:00"
+  },
+  {
     "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
     "category": "CRYPTO",
     "source": "COINTELEGRAPH.COM",
@@ -962,15 +970,5 @@
     "link": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/",
     "image": "https://thehill.com/wp-content/uploads/sites/2/2024/04/Sotomayor_041124_Photo_Getty.png?w=900",
     "published_at": "2026-11-21T00:27:39+00:00"
-  },
-  {
-    "id": "5bd0973c0be12d8592ea98b5894146863b4a9a2a90f224cd412a5e101a653c11",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
-    "summary": "A judge Friday formally approved a proposed $7.25 billion agreement to settle current and future cancer claims related to exposure of Monsanto’s Roundup weed killer. The decision, by Missouri Judge Timothy Boyer, wraps…",
-    "link": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a50d205c4ee66.28920298-e1795219381677.jpeg?w=900",
-    "published_at": "2026-11-21T00:12:25+00:00"
   }
 ]
