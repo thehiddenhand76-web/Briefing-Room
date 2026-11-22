@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-22T14:30:19.811514+00:00"
+  },
+  {
+    "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg",
+    "published": "2026-11-22T14:30:22.470687+00:00"
+  },
+  {
+    "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+    "category": "CRYPTO",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+    "image": "",
+    "published": "2026-11-22T14:30:25.967283+00:00"
+  },
+  {
     "title": "Your questions about Apple HomeView’s audio, answered",
     "category": "STOCKS",
     "source": "THEVERGE.COM",
@@ -940,35 +964,5 @@
     "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
     "image": "https://images.mktw.net/im-46571930",
     "published_at": "2026-11-21T03:20:00+00:00"
-  },
-  {
-    "id": "404a79f0ad0b99d80ede95f05da91909ae925596e9fb5f6e2cbc85b3322ff8a6",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "California man found guilty of sparking blaze that became deadly Palisades Fire",
-    "summary": "The Palisades Fire killed 12 people as it incinerated entire neighborhoods in Los Angeles and Malibu.",
-    "link": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26324834836719-e1795224625909.jpg?w=900",
-    "published_at": "2026-11-21T01:30:51+00:00"
-  },
-  {
-    "id": "d32cc36b491ed78d415435a95f3035340b31b89df94e6b6e70d7154ef6c3e931",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Permitting reform bill clears major hurdle toward becoming law",
-    "summary": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Senate approves major permitting reform bill The Senate passed a major bill Thursday seeking to speed up the build-out of the nation’s en…",
-    "link": "https://thehill.com/newsletters/energy-environment/6234873-senate-baaja-permitting-reform-energy-infrastructure/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/whitehousesheldon_093026gn01_w.jpg?w=900",
-    "published_at": "2026-11-21T01:16:29+00:00"
-  },
-  {
-    "id": "29cc56f00672c0811f544b3350dc687da7a67a0cbbb97d4bb13816e948ab1cba",
-    "category": "POLITICS",
-    "source": "The Hill",
-    "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
-    "summary": "Supreme Court Justice Sonia Sotomayor on Friday suggested her colleagues may view Democrats’ sweeping victories in the midterm elections as a sign that their recent immunity decision has not eliminated checks on the pre…",
-    "link": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/",
-    "image": "https://thehill.com/wp-content/uploads/sites/2/2024/04/Sotomayor_041124_Photo_Getty.png?w=900",
-    "published_at": "2026-11-21T00:27:39+00:00"
   }
 ]
