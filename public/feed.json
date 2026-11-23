@@ -1,5 +1,37 @@
 [
   {
+    "title": "JUST IN: Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-23T12:30:25.750496+00:00"
+  },
+  {
+    "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251229_Bitcoin_News_3.jpg",
+    "published": "2026-11-23T12:30:27.961140+00:00"
+  },
+  {
+    "title": "JUST IN: Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
+    "category": "POLITICS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-28829631",
+    "published": "2026-11-23T12:30:30.099686+00:00"
+  },
+  {
+    "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-00182443",
+    "published": "2026-11-23T12:30:32.074591+00:00"
+  },
+  {
     "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -926,37 +958,5 @@
     "link": "https://www.marketwatch.com/story/amazon-says-it-had-best-ever-thanksgiving-holiday-week-with-record-sales-and-number-of-items-sold-786e0143?mod=mw_rss_marketpulse",
     "image": "",
     "published": "2026-11-21T03:52:08.185292+00:00"
-  },
-  {
-    "title": "JUST IN: Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-69966637",
-    "published": "2026-11-21T03:52:08.276905+00:00"
-  },
-  {
-    "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-34722118",
-    "published": "2026-11-21T03:52:08.278521+00:00"
-  },
-  {
-    "title": "JUST IN: The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-62665344",
-    "published": "2026-11-21T03:52:08.280070+00:00"
-  },
-  {
-    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-18553565",
-    "published": "2026-11-21T03:52:08.280937+00:00"
   }
 ]
