@@ -1,5 +1,45 @@
 [
   {
+    "title": "New York judge declines to block Kalshi from operating in the state for now",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c6baa6823c28467fc75fe889e204ecc283367d0-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-23T18:30:24.658308+00:00"
+  },
+  {
+    "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+    "category": "POLITICS",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/062ee13165eafedad289a1eaa0a5f5b87226a9f3-594x396.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-23T18:30:27.386472+00:00"
+  },
+  {
+    "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight",
+    "category": "MACRO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/selig-cftc-scaled.jpg",
+    "published": "2026-11-23T18:30:30.231446+00:00"
+  },
+  {
+    "title": "JUST IN: Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png",
+    "published": "2026-11-23T18:30:32.735021+00:00"
+  },
+  {
+    "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+    "image": "",
+    "published": "2026-11-23T18:30:36.156233+00:00"
+  },
+  {
     "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -918,45 +958,5 @@
     "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "published": "2026-11-21T03:52:07.664651+00:00"
-  },
-  {
-    "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-    "category": "STOCKS",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-21T03:52:07.665435+00:00"
-  },
-  {
-    "title": "JUST IN: Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d96e63b5f70a1bd124dd07acd7890e8b9447c306-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-21T03:52:07.666217+00:00"
-  },
-  {
-    "title": "JUST IN: Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
-    "published": "2026-11-21T03:52:07.775491+00:00"
-  },
-  {
-    "title": "JUST IN: Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
-    "published": "2026-11-21T03:52:07.776817+00:00"
-  },
-  {
-    "title": "JUST IN: Bitcoin falls below $60K for first time since July amid broader market selloff",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
-    "published": "2026-11-21T03:52:07.777794+00:00"
   }
 ]
