@@ -1,5 +1,21 @@
 [
   {
+    "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4b16caa4ab1ebec0072b074bf7f21eb8d17a3b12-1300x968.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-23T07:30:19.792614+00:00"
+  },
+  {
+    "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cathie-wood-scaled.jpg",
+    "published": "2026-11-23T07:30:22.206911+00:00"
+  },
+  {
     "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -942,21 +958,5 @@
     "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
     "image": "",
     "published": "2026-11-21T03:52:08.968891+00:00"
-  },
-  {
-    "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-    "category": "POLITICS",
-    "source": "CNBC.COM",
-    "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-    "image": "",
-    "published": "2026-11-21T03:52:08.969701+00:00"
-  },
-  {
-    "title": "JUST IN: Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-    "category": "MACRO",
-    "source": "CNBC.COM",
-    "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-    "image": "",
-    "published": "2026-11-21T03:52:08.970477+00:00"
   }
 ]
