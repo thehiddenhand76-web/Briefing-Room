@@ -1,5 +1,37 @@
 [
   {
+    "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cff4cf020817889c01c829d5462b41e5c7576115-3998x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-23T15:30:27.943788+00:00"
+  },
+  {
+    "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-23T174932.863.jpg",
+    "published": "2026-11-23T15:30:30.787721+00:00"
+  },
+  {
+    "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2299100584-scaled.jpg",
+    "published": "2026-11-23T15:30:32.953985+00:00"
+  },
+  {
+    "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
+    "category": "STOCKS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+    "image": "",
+    "published": "2026-11-23T15:30:36.091900+00:00"
+  },
+  {
     "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -926,37 +958,5 @@
     "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
     "published": "2026-11-21T03:52:07.894980+00:00"
-  },
-  {
-    "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303482998-scaled-e1795184982398.jpg",
-    "published": "2026-11-21T03:52:07.896041+00:00"
-  },
-  {
-    "title": "JUST IN: US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T143815.443.jpg",
-    "published": "2026-11-21T03:52:07.897516+00:00"
-  },
-  {
-    "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2305894191.jpg",
-    "published": "2026-11-21T03:52:07.898554+00:00"
-  },
-  {
-    "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
-    "category": "POLITICS",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Adam-Schiff.jpg",
-    "published": "2026-11-21T03:52:07.900938+00:00"
   }
 ]
