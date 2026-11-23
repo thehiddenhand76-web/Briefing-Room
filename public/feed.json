@@ -1,5 +1,37 @@
 [
   {
+    "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024593ca27f9b4117c21eda12313ff940386aa5d-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-23T11:00:20.433787+00:00"
+  },
+  {
+    "title": "JUST IN: The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
+    "category": "MACRO",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-55417356",
+    "published": "2026-11-23T11:00:23.196817+00:00"
+  },
+  {
+    "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
+    "category": "POLITICS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-56791397",
+    "published": "2026-11-23T11:00:25.318162+00:00"
+  },
+  {
+    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "image": "",
+    "published": "2026-11-23T11:00:28.187781+00:00"
+  },
+  {
     "title": "Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments",
     "category": "CRYPTO",
     "source": "THEBLOCK.CO",
@@ -926,37 +958,5 @@
     "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
     "image": "",
     "published": "2026-11-21T03:52:08.675980+00:00"
-  },
-  {
-    "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-    "category": "STOCKS",
-    "source": "CNBC.COM",
-    "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-    "image": "",
-    "published": "2026-11-21T03:52:08.677601+00:00"
-  },
-  {
-    "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-    "category": "MACRO",
-    "source": "CNBC.COM",
-    "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-    "image": "",
-    "published": "2026-11-21T03:52:08.680860+00:00"
-  },
-  {
-    "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-    "category": "STOCKS",
-    "source": "CNBC.COM",
-    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-    "image": "",
-    "published": "2026-11-21T03:52:08.681679+00:00"
-  },
-  {
-    "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-    "category": "MACRO",
-    "source": "CNBC.COM",
-    "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-    "image": "",
-    "published": "2026-11-21T03:52:08.682450+00:00"
   }
 ]
