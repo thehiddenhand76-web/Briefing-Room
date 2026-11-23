@@ -1,5 +1,45 @@
 [
   {
+    "title": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
+    "category": "STOCKS",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-23T14:30:17.847689+00:00"
+  },
+  {
+    "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/okx-1920-scaled-e1795429769945.jpg",
+    "published": "2026-11-23T14:30:20.247549+00:00"
+  },
+  {
+    "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
+    "category": "STOCKS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
+    "published": "2026-11-23T14:30:22.468915+00:00"
+  },
+  {
+    "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+    "category": "STOCKS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+    "image": "",
+    "published": "2026-11-23T14:30:27.394642+00:00"
+  },
+  {
+    "title": "Jensen Huang is back as Nvidia’s CEO",
+    "category": "STOCKS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+    "image": "",
+    "published": "2026-11-23T14:30:29.922373+00:00"
+  },
+  {
     "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -918,45 +958,5 @@
     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/selig-cftc-scaled.jpg",
     "published": "2026-11-21T03:52:07.904247+00:00"
-  },
-  {
-    "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
-    "category": "STOCKS",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/20211022_Brian-Quintenz.jpg",
-    "published": "2026-11-21T03:52:07.905798+00:00"
-  },
-  {
-    "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-    "category": "STOCKS",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg",
-    "published": "2026-11-21T03:52:08.015484+00:00"
-  },
-  {
-    "title": "JUST IN: Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
-    "category": "STOCKS",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-    "published": "2026-11-21T03:52:08.016810+00:00"
-  },
-  {
-    "title": "JUST IN: SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg",
-    "published": "2026-11-21T03:52:08.017813+00:00"
-  },
-  {
-    "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg",
-    "published": "2026-11-21T03:52:08.018683+00:00"
   }
 ]
