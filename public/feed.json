@@ -1,5 +1,37 @@
 [
   {
+    "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-92775512",
+    "published": "2026-11-24T19:00:16.495164+00:00"
+  },
+  {
+    "title": "JUST IN: Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-47681442",
+    "published": "2026-11-24T19:00:18.659043+00:00"
+  },
+  {
+    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+    "image": "",
+    "published": "2026-11-24T19:00:21.612711+00:00"
+  },
+  {
+    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+    "image": "",
+    "published": "2026-11-24T19:00:23.650888+00:00"
+  },
+  {
     "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
     "category": "CRYPTO",
     "source": "COINTELEGRAPH.COM",
@@ -926,37 +958,5 @@
     "link": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/okx-1920-scaled-e1795429769945.jpg",
     "published": "2026-11-23T14:30:20.247549+00:00"
-  },
-  {
-    "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-    "category": "STOCKS",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
-    "published": "2026-11-23T14:30:22.468915+00:00"
-  },
-  {
-    "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
-    "category": "STOCKS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
-    "image": "",
-    "published": "2026-11-23T14:30:27.394642+00:00"
-  },
-  {
-    "title": "Jensen Huang is back as Nvidia’s CEO",
-    "category": "STOCKS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-    "image": "",
-    "published": "2026-11-23T14:30:29.922373+00:00"
-  },
-  {
-    "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-23T14:00:20.492478+00:00"
   }
 ]
