@@ -1,5 +1,45 @@
 [
   {
+    "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-930963058.jpg",
+    "published": "2026-11-24T17:00:24.344444+00:00"
+  },
+  {
+    "title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-dv455013-scaled.jpg",
+    "published": "2026-11-24T17:00:26.563141+00:00"
+  },
+  {
+    "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-469113220-scaled-e1795537967530.jpg",
+    "published": "2026-11-24T17:00:28.742208+00:00"
+  },
+  {
+    "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+    "category": "STOCKS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+    "image": "",
+    "published": "2026-11-24T17:00:32.138339+00:00"
+  },
+  {
+    "title": "Jensen Huang deepfakes are the hot new AI slop",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+    "image": "",
+    "published": "2026-11-24T17:00:34.304489+00:00"
+  },
+  {
     "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation another story",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -918,45 +958,5 @@
     "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/31ac1449ffa2ff56a823baebb8b3ac7c7335279e-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "published": "2026-11-23T13:00:19.336952+00:00"
-  },
-  {
-    "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/fiona-hippo-decrypt-style-gID_7.jpg",
-    "published": "2026-11-23T13:00:20.018249+00:00"
-  },
-  {
-    "title": "JUST IN: Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-23T12:30:25.750496+00:00"
-  },
-  {
-    "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251229_Bitcoin_News_3.jpg",
-    "published": "2026-11-23T12:30:27.961140+00:00"
-  },
-  {
-    "title": "JUST IN: Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
-    "category": "POLITICS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-28829631",
-    "published": "2026-11-23T12:30:30.099686+00:00"
-  },
-  {
-    "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-00182443",
-    "published": "2026-11-23T12:30:32.074591+00:00"
   }
 ]
