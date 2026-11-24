@@ -1,5 +1,21 @@
 [
   {
+    "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
+    "category": "MACRO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d04609049065a5459f508de4e13c4758c4a1e057-3500x2600.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-24T12:30:25.432578+00:00"
+  },
+  {
+    "title": "JUST IN: Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-31029342",
+    "published": "2026-11-24T12:30:28.495983+00:00"
+  },
+  {
     "title": "JUST IN: Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -942,21 +958,5 @@
     "link": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cathie-wood-scaled.jpg",
     "published": "2026-11-23T07:30:22.206911+00:00"
-  },
-  {
-    "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b40a09ecac1334e17574f556c1f2cb1e9c68b091-2576x1449.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-23T06:00:29.827955+00:00"
-  },
-  {
-    "title": "JUST IN: Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cropped-bitcoin-.jpg",
-    "published": "2026-11-23T06:00:32.101335+00:00"
   }
 ]
