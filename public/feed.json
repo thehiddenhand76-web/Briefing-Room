@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why France is at risk of recession — and what could keep it out of one",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+    "image": "",
+    "published": "2026-11-24T07:30:18.233588+00:00"
+  },
+  {
     "title": "Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles",
     "category": "CRYPTO",
     "source": "THEBLOCK.CO",
@@ -950,13 +958,5 @@
     "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1bd48a3fe18062fee7cb925250ccc088b0e73dc9-2312x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "published": "2026-11-22T17:30:17.627816+00:00"
-  },
-  {
-    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-    "category": "POLITICS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-    "image": "",
-    "published": "2026-11-22T17:30:20.912098+00:00"
   }
 ]
