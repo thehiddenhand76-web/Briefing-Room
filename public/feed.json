@@ -1,5 +1,37 @@
 [
   {
+    "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c411a3a75ca44ac9541d5906f055f52d55f7258-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-24T14:00:19.967240+00:00"
+  },
+  {
+    "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2204016472-scaled.jpg",
+    "published": "2026-11-24T14:00:22.275661+00:00"
+  },
+  {
+    "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/ledn-logo2.png",
+    "published": "2026-11-24T14:00:25.074179+00:00"
+  },
+  {
+    "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg",
+    "published": "2026-11-24T14:00:25.510681+00:00"
+  },
+  {
     "title": "JUST IN: Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
     "category": "CRYPTO",
     "source": "COINTELEGRAPH.COM",
@@ -926,37 +958,5 @@
     "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
     "image": "https://images.mktw.net/im-55417356",
     "published": "2026-11-23T11:00:23.196817+00:00"
-  },
-  {
-    "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
-    "category": "POLITICS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-56791397",
-    "published": "2026-11-23T11:00:25.318162+00:00"
-  },
-  {
-    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
-    "category": "POLITICS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-    "image": "",
-    "published": "2026-11-23T11:00:28.187781+00:00"
-  },
-  {
-    "title": "Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/singapore-unsplash-2-scaled.jpg",
-    "published": "2026-11-23T10:30:16.952885+00:00"
-  },
-  {
-    "title": "Google co-founder Sergey Brin and ex-wife Nicole Shanahan list Malibu home for $33.5 million",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/google-co-founder-sergey-brin-and-ex-wife-nicole-shanahan-list-malibu-home-for-33-5-million-0121adcd?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-01364423",
-    "published": "2026-11-23T10:30:19.174571+00:00"
   }
 ]
