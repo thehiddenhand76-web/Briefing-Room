@@ -1,5 +1,37 @@
 [
   {
+    "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation another story",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cfd2092b1db2778aa23e4fb8395ac04ad57dd0fd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-24T16:30:15.571563+00:00"
+  },
+  {
+    "title": "JUST IN: Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
+    "category": "POLITICS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-80767125",
+    "published": "2026-11-24T16:30:18.258670+00:00"
+  },
+  {
+    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "category": "MACRO",
+    "source": "CNBC.COM",
+    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+    "image": "",
+    "published": "2026-11-24T16:30:20.854319+00:00"
+  },
+  {
+    "title": "JUST IN: The New York Times warns photographers not to update Photoshop over AI features",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "image": "",
+    "published": "2026-11-24T16:30:23.559598+00:00"
+  },
+  {
     "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
     "category": "CRYPTO",
     "source": "THEBLOCK.CO",
@@ -926,37 +958,5 @@
     "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
     "image": "https://images.mktw.net/im-00182443",
     "published": "2026-11-23T12:30:32.074591+00:00"
-  },
-  {
-    "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
-    "image": "",
-    "published": "2026-11-23T12:00:22.955826+00:00"
-  },
-  {
-    "title": "ECB to let banks pledge more tokenized securities as collateral",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg",
-    "published": "2026-11-23T12:00:25.084443+00:00"
-  },
-  {
-    "title": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4494ac108c9db76b846387201d7dbdb7578a3915-1502x832.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-23T11:30:17.471705+00:00"
-  },
-  {
-    "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83YQPM05E5SW3G40M782ZTV/coma-crypto-market-falling-bitcoin-1-960x640.webp",
-    "published": "2026-11-23T11:30:19.613150+00:00"
   }
 ]
