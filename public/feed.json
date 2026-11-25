@@ -1,5 +1,13 @@
 [
   {
+    "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+    "image": "",
+    "published": "2026-11-25T01:00:19.932479+00:00"
+  },
+  {
     "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
     "category": "CRYPTO",
     "source": "DECRYPT.CO",
@@ -950,13 +958,5 @@
     "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
     "image": "",
     "published": "2026-11-23T18:00:19.353493+00:00"
-  },
-  {
-    "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-05512747",
-    "published": "2026-11-23T18:00:23.280906+00:00"
   }
 ]
