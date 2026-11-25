@@ -1,5 +1,61 @@
 [
   {
+    "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5759e58dbca079ac7f62cea4739a25c5f08d150-2280x1284.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-25T18:00:28.560218+00:00"
+  },
+  {
+    "title": "JUST IN: US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89S8XMNYBMPKRXCHB0PC12Q/make-bitcoin-great-again2-3.png",
+    "published": "2026-11-25T18:00:30.535336+00:00"
+  },
+  {
+    "title": "JUST IN: Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RQDCSS11KJ2G00H0WCG5F/article-covers-243058-bitcoin-spot-traders-lose-ground-as-btc-bears-defend-dollar98k-1280x853.webp",
+    "published": "2026-11-25T18:00:32.454721+00:00"
+  },
+  {
+    "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/caspar-camille-rubin-N_lrIeCWgw0-unsplash-scaled.jpg",
+    "published": "2026-11-25T18:00:34.416840+00:00"
+  },
+  {
+    "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png",
+    "published": "2026-11-25T18:00:36.395079+00:00"
+  },
+  {
+    "title": "JUST IN: Why this stock-market selloff is probably going to get worse before it gets better",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-73383573",
+    "published": "2026-11-25T18:00:38.397501+00:00"
+  },
+  {
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "image": "",
+    "published": "2026-11-25T18:00:40.839847+00:00"
+  },
+  {
     "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
     "category": "CRYPTO",
     "source": "COINTELEGRAPH.COM",
@@ -902,61 +958,5 @@
     "link": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-4.png",
     "published": "2026-11-24T15:30:19.791216+00:00"
-  },
-  {
-    "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-72615127",
-    "published": "2026-11-24T15:30:22.269282+00:00"
-  },
-  {
-    "title": "JUST IN: Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1917734972-scaled.jpg",
-    "published": "2026-11-24T15:00:21.560936+00:00"
-  },
-  {
-    "title": "Anthropic’s stock just broke below its IPO price for the first time",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-34075557",
-    "published": "2026-11-24T15:00:24.023569+00:00"
-  },
-  {
-    "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c411a3a75ca44ac9541d5906f055f52d55f7258-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-24T14:00:19.967240+00:00"
-  },
-  {
-    "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2204016472-scaled.jpg",
-    "published": "2026-11-24T14:00:22.275661+00:00"
-  },
-  {
-    "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/ledn-logo2.png",
-    "published": "2026-11-24T14:00:25.074179+00:00"
-  },
-  {
-    "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg",
-    "published": "2026-11-24T14:00:25.510681+00:00"
   }
 ]
