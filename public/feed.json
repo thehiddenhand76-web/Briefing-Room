@@ -1,5 +1,37 @@
 [
   {
+    "title": "JUST IN: Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/97ad697324ea7a7ca2ac229eafb3c41aa7545557-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-25T12:00:18.055969+00:00"
+  },
+  {
+    "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/65916bf10d18a7e70d226b05b88e12ef92aa478c-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-25T12:00:20.375638+00:00"
+  },
+  {
+    "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M896PHE1PD4MWC6ATP71JDFZ/sol-jjapan.png",
+    "published": "2026-11-25T12:00:22.950164+00:00"
+  },
+  {
+    "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+    "published": "2026-11-25T12:00:25.535521+00:00"
+  },
+  {
     "title": "JUST IN: EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -926,37 +958,5 @@
     "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
     "image": "https://images.mktw.net/im-93028733",
     "published": "2026-11-23T22:30:19.515966+00:00"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-    "category": "STOCKS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "image": "",
-    "published": "2026-11-23T22:30:22.484242+00:00"
-  },
-  {
-    "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg",
-    "published": "2026-11-23T22:00:23.001192+00:00"
-  },
-  {
-    "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-11808731",
-    "published": "2026-11-23T22:00:25.233783+00:00"
-  },
-  {
-    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-    "category": "STOCKS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-    "image": "",
-    "published": "2026-11-23T22:00:28.196368+00:00"
   }
 ]
