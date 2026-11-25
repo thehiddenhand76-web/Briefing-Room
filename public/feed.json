@@ -1,5 +1,13 @@
 [
   {
+    "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2023/07/scammers-impersonators-gID_7.jpeg",
+    "published": "2026-11-25T21:30:14.729198+00:00"
+  },
+  {
     "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
     "category": "CRYPTO",
     "source": "DECRYPT.CO",
@@ -950,13 +958,5 @@
     "link": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "published": "2026-11-24T18:00:23.213474+00:00"
-  },
-  {
-    "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/pons-meme-coin-gID_4-pID_1.png",
-    "published": "2026-11-24T18:00:25.731478+00:00"
   }
 ]
