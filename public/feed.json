@@ -1,5 +1,45 @@
 [
   {
+    "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1371375644-scaled.jpg",
+    "published": "2026-11-25T20:00:18.039023+00:00"
+  },
+  {
+    "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+    "category": "STOCKS",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1341548354.jpg",
+    "published": "2026-11-25T20:00:20.172671+00:00"
+  },
+  {
+    "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-09631159",
+    "published": "2026-11-25T20:00:22.508298+00:00"
+  },
+  {
+    "title": "JUST IN: The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+    "category": "MACRO",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-60296598",
+    "published": "2026-11-25T20:00:24.525474+00:00"
+  },
+  {
+    "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+    "image": "",
+    "published": "2026-11-25T20:00:27.865659+00:00"
+  },
+  {
     "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
     "category": "CRYPTO",
     "source": "COINTELEGRAPH.COM",
@@ -918,45 +958,5 @@
     "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
     "image": "https://images.mktw.net/im-09960910",
     "published": "2026-11-24T18:00:30.179001+00:00"
-  },
-  {
-    "title": "JUST IN: Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp",
-    "published": "2026-11-24T17:30:17.758817+00:00"
-  },
-  {
-    "title": "Tidal will start banning AI-generated music next month",
-    "category": "POLITICS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "image": "",
-    "published": "2026-11-24T17:30:21.325778+00:00"
-  },
-  {
-    "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-930963058.jpg",
-    "published": "2026-11-24T17:00:24.344444+00:00"
-  },
-  {
-    "title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-dv455013-scaled.jpg",
-    "published": "2026-11-24T17:00:26.563141+00:00"
-  },
-  {
-    "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-469113220-scaled-e1795537967530.jpg",
-    "published": "2026-11-24T17:00:28.742208+00:00"
   }
 ]
