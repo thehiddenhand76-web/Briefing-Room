@@ -1,5 +1,21 @@
 [
   {
+    "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+    "category": "POLITICS",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d2e34daee89ee05f5d2eb9b96b2bba1f8c8b370-3799x2633.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-25T04:00:16.019567+00:00"
+  },
+  {
+    "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2302253429-1crop-scaled.jpg",
+    "published": "2026-11-25T04:00:18.393011+00:00"
+  },
+  {
     "title": "CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books",
     "category": "CRYPTO",
     "source": "COINTELEGRAPH.COM",
@@ -942,21 +958,5 @@
     "link": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/062ee13165eafedad289a1eaa0a5f5b87226a9f3-594x396.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "published": "2026-11-23T18:30:27.386472+00:00"
-  },
-  {
-    "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight",
-    "category": "MACRO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/selig-cftc-scaled.jpg",
-    "published": "2026-11-23T18:30:30.231446+00:00"
-  },
-  {
-    "title": "JUST IN: Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png",
-    "published": "2026-11-23T18:30:32.735021+00:00"
   }
 ]
