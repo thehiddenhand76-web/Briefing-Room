@@ -1,5 +1,37 @@
 [
   {
+    "title": "JUST IN: Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg",
+    "published": "2026-11-25T22:00:23.859739+00:00"
+  },
+  {
+    "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+    "category": "STOCKS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/alice-huang-social-gID_7.jpg",
+    "published": "2026-11-25T22:00:26.196111+00:00"
+  },
+  {
+    "title": "JUST IN: Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
+    "category": "POLITICS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-21652349",
+    "published": "2026-11-25T22:00:28.563555+00:00"
+  },
+  {
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "image": "",
+    "published": "2026-11-25T22:00:31.718888+00:00"
+  },
+  {
     "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
     "category": "CRYPTO",
     "source": "DECRYPT.CO",
@@ -926,37 +958,5 @@
     "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
     "image": "",
     "published": "2026-11-24T19:00:23.650888+00:00"
-  },
-  {
-    "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png",
-    "published": "2026-11-24T18:30:19.111150+00:00"
-  },
-  {
-    "title": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303145946-scaled.jpg",
-    "published": "2026-11-24T18:30:21.332177+00:00"
-  },
-  {
-    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-    "category": "POLITICS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-    "image": "",
-    "published": "2026-11-24T18:30:24.988918+00:00"
-  },
-  {
-    "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-24T18:00:23.213474+00:00"
   }
 ]
