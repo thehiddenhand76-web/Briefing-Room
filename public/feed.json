@@ -1,5 +1,37 @@
 [
   {
+    "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+    "category": "MACRO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d63edc245e05db9f58c963f4d17fdcab9e457780-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-25T12:30:15.293948+00:00"
+  },
+  {
+    "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/79aea0df5ae0b99db7ca8b161d341d2e3133e601-2650x1491.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-25T12:30:18.868357+00:00"
+  },
+  {
+    "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-6.png",
+    "published": "2026-11-25T12:30:21.371243+00:00"
+  },
+  {
+    "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2297775036-scaled.jpg",
+    "published": "2026-11-25T12:30:23.744117+00:00"
+  },
+  {
     "title": "JUST IN: Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -926,37 +958,5 @@
     "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
     "image": "",
     "published": "2026-11-23T23:00:19.936450+00:00"
-  },
-  {
-    "title": "Trump engineered a risky comeback for Jensen Huang",
-    "category": "POLITICS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-    "image": "",
-    "published": "2026-11-23T23:00:21.995978+00:00"
-  },
-  {
-    "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2217532638-scaled.jpg",
-    "published": "2026-11-23T22:30:15.190258+00:00"
-  },
-  {
-    "title": "Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/adam-smigielski-K5mPtONmpHM-unsplash-scaled.jpg",
-    "published": "2026-11-23T22:30:17.218518+00:00"
-  },
-  {
-    "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-93028733",
-    "published": "2026-11-23T22:30:19.515966+00:00"
   }
 ]
