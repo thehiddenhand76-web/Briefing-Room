@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SXA51G4YCM0WZSF0YF9C3/ethereum-characters-in-line.png",
+    "published": "2026-11-25T19:30:14.555214+00:00"
+  },
+  {
+    "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+    "published": "2026-11-25T19:30:17.043878+00:00"
+  },
+  {
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+    "image": "",
+    "published": "2026-11-25T19:30:19.785804+00:00"
+  },
+  {
     "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -934,29 +958,5 @@
     "link": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-469113220-scaled-e1795537967530.jpg",
     "published": "2026-11-24T17:00:28.742208+00:00"
-  },
-  {
-    "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-    "category": "STOCKS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-    "image": "",
-    "published": "2026-11-24T17:00:32.138339+00:00"
-  },
-  {
-    "title": "Jensen Huang deepfakes are the hot new AI slop",
-    "category": "POLITICS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-    "image": "",
-    "published": "2026-11-24T17:00:34.304489+00:00"
-  },
-  {
-    "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation another story",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cfd2092b1db2778aa23e4fb8395ac04ad57dd0fd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-24T16:30:15.571563+00:00"
   }
 ]
