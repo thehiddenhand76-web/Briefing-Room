@@ -1,5 +1,21 @@
 [
   {
+    "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/57b92207ca31fecb15a5a37f66c0dfebcd585fa4-1502x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-25T09:00:21.451707+00:00"
+  },
+  {
+    "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88WT0WPRVQ4457VHKSH5XGT/ai-quantum-tech-eu.png",
+    "published": "2026-11-25T09:00:23.676566+00:00"
+  },
+  {
     "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
     "category": "CRYPTO",
     "source": "THEBLOCK.CO",
@@ -942,21 +958,5 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
     "image": "",
     "published": "2026-11-23T20:00:35.746940+00:00"
-  },
-  {
-    "title": "How Jensen Huang ended up as Nvidia CEO again",
-    "category": "STOCKS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-    "image": "",
-    "published": "2026-11-23T20:00:37.828877+00:00"
-  },
-  {
-    "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84X25GWYAAE3AGR265PESJB/hi-how-to-buy-usdc-on-the-base-network.png",
-    "published": "2026-11-23T19:30:19.550144+00:00"
   }
 ]
