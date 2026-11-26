@@ -1,5 +1,29 @@
 [
   {
+    "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/323210c28533ae279cbc3e36b349743bedce4346-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-26T14:30:15.496799+00:00"
+  },
+  {
+    "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+    "category": "CRYPTO",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/cournot-raise-5m-e1795702816762-gID_7.png",
+    "published": "2026-11-26T14:30:17.860162+00:00"
+  },
+  {
+    "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+    "category": "STOCKS",
+    "source": "MARKETWATCH.COM",
+    "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+    "image": "https://images.mktw.net/im-40841215",
+    "published": "2026-11-26T14:30:20.391641+00:00"
+  },
+  {
     "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
     "category": "STOCKS",
     "source": "COINTELEGRAPH.COM",
@@ -934,29 +958,5 @@
     "link": "https://www.politico.com/video/2026/11/25/alex-bores-on-whether-congress-can-regulate-ai-before-its-too-late-2235705",
     "image": "",
     "published": "2026-11-25T10:30:41.053216+00:00"
-  },
-  {
-    "title": "Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-5.png",
-    "published": "2026-11-25T10:00:27.529969+00:00"
-  },
-  {
-    "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
-    "category": "CRYPTO",
-    "source": "COINDESK.COM",
-    "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/57b92207ca31fecb15a5a37f66c0dfebcd585fa4-1502x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "published": "2026-11-25T09:00:21.451707+00:00"
-  },
-  {
-    "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88WT0WPRVQ4457VHKSH5XGT/ai-quantum-tech-eu.png",
-    "published": "2026-11-25T09:00:23.676566+00:00"
   }
 ]
