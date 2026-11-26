@@ -1,5 +1,29 @@
 [
   {
+    "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff5cb9a14368e0ec679deae2d9127d7d94dd804e-5700x3800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-26T06:30:14.919093+00:00"
+  },
+  {
+    "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1473813395.jpg",
+    "published": "2026-11-26T06:30:17.084058+00:00"
+  },
+  {
+    "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+    "category": "CRYPTO",
+    "source": "THEBLOCK.CO",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2245231384.jpg",
+    "published": "2026-11-26T06:30:19.061206+00:00"
+  },
+  {
     "title": "JUST IN: Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -934,29 +958,5 @@
     "link": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
     "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg",
     "published": "2026-11-24T22:00:24.997555+00:00"
-  },
-  {
-    "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg",
-    "published": "2026-11-24T21:30:17.489113+00:00"
-  },
-  {
-    "title": "Dell’s stock rises as the AI boom helps sales more than double",
-    "category": "STOCKS",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-86616784",
-    "published": "2026-11-24T21:30:19.773118+00:00"
-  },
-  {
-    "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png",
-    "published": "2026-11-24T21:00:17.774232+00:00"
   }
 ]
