@@ -1,5 +1,21 @@
 [
   {
+    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-26T18:00:22.328315+00:00"
+  },
+  {
+    "title": "JUST IN: Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CA3FNTMVJ8NYKSJGRZZ4NT/hi-impact-of-fed-interest-rates-on-crypto-holders-2-960x640.webp",
+    "published": "2026-11-26T18:00:24.622440+00:00"
+  },
+  {
     "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
     "category": "CRYPTO",
     "source": "COINDESK.COM",
@@ -942,21 +958,5 @@
     "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M893T0SM6CVYNXZQE3SFECS5/hi-crypto-layoffs-mount-as-exchanges-continue-to-be-ravaged-by-the-prevailing-bear-market-bitcoin-1-960x640.webp",
     "published": "2026-11-25T11:30:22.609648+00:00"
-  },
-  {
-    "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-    "category": "POLITICS",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
-    "published": "2026-11-25T11:30:25.103766+00:00"
-  },
-  {
-    "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg",
-    "published": "2026-11-25T11:30:27.803490+00:00"
   }
 ]
