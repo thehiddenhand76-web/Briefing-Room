@@ -1,5 +1,13 @@
 [
   {
+    "title": "Netflix’s coziest show has made a very quiet return",
+    "category": "POLITICS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+    "image": "",
+    "published": "2026-11-26T21:00:19.444392+00:00"
+  },
+  {
     "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
     "category": "STOCKS",
     "source": "DECRYPT.CO",
@@ -950,13 +958,5 @@
     "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/65916bf10d18a7e70d226b05b88e12ef92aa478c-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "published": "2026-11-25T12:00:20.375638+00:00"
-  },
-  {
-    "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-    "category": "CRYPTO",
-    "source": "COINTELEGRAPH.COM",
-    "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M896PHE1PD4MWC6ATP71JDFZ/sol-jjapan.png",
-    "published": "2026-11-25T12:00:22.950164+00:00"
   }
 ]
