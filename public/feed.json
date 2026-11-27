@@ -1,5 +1,45 @@
 [
   {
+    "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+    "category": "CRYPTO",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3ef28cb03d1dfa1b5ac880553d00076f4153845-874x492.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-27T11:30:19.822483+00:00"
+  },
+  {
+    "title": "JUST IN: Injective asks SEC to allow order books for tokenized stock trading",
+    "category": "STOCKS",
+    "source": "COINDESK.COM",
+    "link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0aa4d73f62167c3ec9a89974f03437b819bb2f-541x304.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "published": "2026-11-27T11:30:22.015760+00:00"
+  },
+  {
+    "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+    "category": "CRYPTO",
+    "source": "COINTELEGRAPH.COM",
+    "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8E8WVNGNK0E20925SNTZQAB/bitcoin-price-fall-960x640.webp",
+    "published": "2026-11-27T11:30:24.265315+00:00"
+  },
+  {
+    "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+    "category": "STOCKS",
+    "source": "DECRYPT.CO",
+    "link": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png",
+    "published": "2026-11-27T11:30:26.532483+00:00"
+  },
+  {
+    "title": "The SE 3 is the Apple Watch most people should buy on Black Friday",
+    "category": "STOCKS",
+    "source": "THEVERGE.COM",
+    "link": "https://www.theverge.com/gadgets/1040313/apple-watch-se-3-black-friday-2026-deal-sale",
+    "image": "",
+    "published": "2026-11-27T11:30:29.696546+00:00"
+  },
+  {
     "title": "JUST IN: Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
     "category": "MACRO",
     "source": "MARKETWATCH.COM",
@@ -918,45 +958,5 @@
     "link": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg",
     "published": "2026-11-25T15:00:24.657424+00:00"
-  },
-  {
-    "title": "Ukraine passes crypto market law, with $332 million revenue target",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-7.png",
-    "published": "2026-11-25T15:00:26.963342+00:00"
-  },
-  {
-    "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
-    "category": "CRYPTO",
-    "source": "THEBLOCK.CO",
-    "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1073598654-scaled.jpg",
-    "published": "2026-11-25T14:30:31.059852+00:00"
-  },
-  {
-    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-    "category": "POLITICS",
-    "source": "THEVERGE.COM",
-    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-    "image": "",
-    "published": "2026-11-25T14:30:34.638443+00:00"
-  },
-  {
-    "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-    "category": "CRYPTO",
-    "source": "DECRYPT.CO",
-    "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
-    "published": "2026-11-25T14:00:18.993390+00:00"
-  },
-  {
-    "title": "Third-quarter GDP already looked great. Now it looks even better.",
-    "category": "MACRO",
-    "source": "MARKETWATCH.COM",
-    "link": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
-    "image": "https://images.mktw.net/im-10770272",
-    "published": "2026-11-25T14:00:21.395045+00:00"
   }
 ]
